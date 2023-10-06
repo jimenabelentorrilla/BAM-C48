@@ -23,9 +23,16 @@ body{
     font-size: 22px;
     font-weight: 700;
 }
+.fixed{
+    position: fixed;
+    top:0;
+    right: 0;
+    background-color: #fbfaf4;
+    z-index: 999;
+}
 .search{
     border-left: #00334d solid 1px;
-    padding: 15px;
+    padding: 0.7rem;
     width: 375px;
     display: flex;
     flex-direction: row;
@@ -97,6 +104,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #FFFFFF;
+    border-top:1px #00000024 solid;
 }
 .footer a{
     width: 3rem;
@@ -105,6 +114,27 @@ body{
     align-items: center;
     justify-content: center;
     border: 1px solid;
-    font-size: 2em;
+    
+    font-size: 1.5em;
     color: #00334d;
+}
+.icon-fb:hover{
+    background-color: #1877f2;
+    color: #FFFFFF;
+}
+.icon-tw:hover{
+    background-color: #1da1f2;
+    color: #FFFFFF;
+}
+.icon-ig:hover{
+    background-color: #e4405f;
+    color: #FFFFFF;
+}
+.icon-pin:hover{
+    background-color: #bd081c;
+    color: #FFFFFF;
+}
+.icon-tel:hover{
+    background-color: #2ca5e0;
+    color: #FFFFFF;
 }
