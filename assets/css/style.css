@@ -80,6 +80,7 @@ body{
 
 .box-content{
     position: absolute;
+    text-shadow: 0 0 2px #000;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
