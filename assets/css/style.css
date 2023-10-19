@@ -56,11 +56,11 @@ p{
 /*Grid*/
 .galeria{
     display: grid;
-    gap:1px;
+    gap: 1px;
     grid-template-columns: repeat(4,25%);
     width: 100%;
-    margin:0;
-    padding:0;   
+    margin: 0;
+    padding: 0;   
 }
 .item{
     overflow: hidden;
@@ -146,4 +146,57 @@ p{
 .icon-tel:hover{
     background-color: #2ca5e0;
     color: #FFFFFF;
+}
+
+/*Media querys**/
+@media (min-width: 320px){
+    .galeria{
+        grid-template-columns: repeat(2,50%);
+    }
+    .item{
+        height: 100px;
+    }
+}
+
+
+@media (min-width: 460px){
+    .galeria{
+        grid-template-columns: 1fr ;
+    }
+    .item{
+        height: 100px;
+    }
+    .cont-logo{
+        display: none;
+    }
+    .fixed {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px){
+    .galeria{
+        grid-template-columns: repeat(2,50%);
+    }
+    .item{
+        height: 100px;
+    }
+}
+@media (min-width: 1024px){
+    .galeria{
+        grid-template-columns: repeat(3, 33.3%);
+    }
+    .item{
+        height: 150px;
+    }
+}
+@media(min-width: 1200px){
+    .galeria{
+        grid-template-columns: repeat(4, 25%);
+    }
+}
+@media (width > 1400px){
+    .galeria{
+        grid-template-columns: repeat(5, 20%);
+    }
 }
