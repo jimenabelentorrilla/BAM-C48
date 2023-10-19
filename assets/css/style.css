@@ -205,7 +205,7 @@ p{
         width: 50%;
     }
 }
-@media(min-width: 1200px){
+@media (min-width: 1200px){
     .galeria{
         grid-template-columns: repeat(4, 25%);
     }
