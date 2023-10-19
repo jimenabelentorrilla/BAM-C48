@@ -23,6 +23,9 @@ p{
     padding: 2rem;
     height: 4rem;
 }
+.cont-logo{
+    display: block;
+}
 .logo{
     font-size: 22px;
     font-weight: 700;
@@ -156,6 +159,12 @@ p{
     .item{
         height: 100px;
     }
+    .cont-logo{
+        display: none;
+    }
+    .fixed {
+        width: 100%;
+    }
 }
 
 
@@ -189,14 +198,32 @@ p{
     .item{
         height: 150px;
     }
+    .cont-logo{
+        display: block;
+    }
+    .fixed {
+        width: 50%;
+    }
 }
 @media(min-width: 1200px){
     .galeria{
         grid-template-columns: repeat(4, 25%);
     }
+    .cont-logo{
+        display: block;
+    }
+    .fixed {
+        width: 50%;
+    }
 }
 @media (width > 1400px){
     .galeria{
         grid-template-columns: repeat(5, 20%);
+    }
+    .cont-logo{
+        display: block;
+    }
+    .fixed {
+        width: 40%;
     }
 }
