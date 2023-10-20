@@ -1,10 +1,14 @@
-
+body {
+    background-color: #fbfaf4;
+    font-family: 'Montserrat', sans-serif !important;
+    color: #00334d !important;
+    overflow-x: hidden;
+  }
 .cont-grid{
     display: grid;
     grid-template-columns: 30% 70%;
     width: 100%;
     height: 100vh;
-    gap: 5%; 
 }
 .container-img{
     height: 100vh;
@@ -13,6 +17,7 @@
 .header-pad{
     display: flex;
     justify-content: center;
+    width: 90%;
 }
 .container-img img {
     height: 100vh;
@@ -29,10 +34,10 @@
     display: flex;
     flex-direction: column;  
     gap: 50px;
-    padding: 110px 0px;
+    padding: 30px 0px;
 }
 .layout-titles h1{
-    font-size: 47px;
+    font-size: 40px;
     font-weight: 700;
 }
 .layout-titles{
@@ -46,9 +51,11 @@
     width:700px;
 }
 .header-paragraph p {
-    font-size: 1.2rem;
-    line-height: 1.5;
-    font-size: Georgia, serif;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 19px;
+    line-height: 1.8;
+    font-weight: 400;
+    text-wrap: balance;
 }
 
 /***/
@@ -89,7 +96,8 @@
     height: 120px;
 }
 .card-title{
-    font-size: 24px;
+    font-size: 22px;
+    font-weight: 600;
     width: 400px;
     margin: 0;
 }
