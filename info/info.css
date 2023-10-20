@@ -57,6 +57,11 @@ body {
     font-weight: 400;
     text-wrap: balance;
 }
+.header-paragraph p span{
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 0.8;
+}
 
 /***/
 
