@@ -37,9 +37,11 @@ p {
   right: 0;
   background-color: #fbfaf4;
   z-index: 999;
+  border-bottom: #00334d solid 1px;
+  border-left: #00334d solid 1px;
 }
 .search {
-  border-left: #00334d solid 1px;
+  
   padding: 0.5rem;
   width: 375px;
   display: flex;
