@@ -17,8 +17,9 @@ body {
 }
 .header-pad {
     display: flex;
-    justify-content: center;
-    width: 90%;
+    flex-direction: column;
+    justify-self: center;
+    width: 85%;
 }
 .container-img img {
     height: 100vh;
@@ -112,6 +113,7 @@ body {
     font-weight: 600;
     line-height: 1.8;
 }
+
 
 
 /*Media querys**/
