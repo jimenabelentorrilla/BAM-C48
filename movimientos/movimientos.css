@@ -4,7 +4,10 @@ body {
     color: #00334d !important;
     overflow-x: hidden;
 }
-
+.back{
+    width: 82%;
+    justify-content: center;
+}
 .cont-grid {
     display: grid;
     grid-template-columns: 30% 70%;
