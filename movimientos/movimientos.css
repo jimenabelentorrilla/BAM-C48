@@ -116,7 +116,14 @@ body {
     width: 45% !important;
 }
 
-
+.arrow a {
+  text-decoration: none;
+  font-size: 1.5em;
+  color: #00334d;
+}
+.arrow:hover{
+    opacity: 0.8;
+}
 /*Media querys**/
 
 @media (width < 460px) {
@@ -218,7 +225,7 @@ body {
         width: 340px;
     }
     .back{
-        width: 82%;
+        width: 72%;
         justify-content: center;
     }
   }
@@ -246,7 +253,7 @@ body {
         width: 340px;
     }
     .back{
-        width: 82%;
+        width: 72%;
         justify-content: center;
     }
   }
