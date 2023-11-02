@@ -121,8 +121,9 @@ body {
   font-size: 1.5em;
   color: #00334d;
 }
-.arrow:hover{
-    opacity: 0.8;
+.arrow a :hover{
+    opacity: 0.8;    
+    transition: .3s ease;
 }
 /*Media querys**/
 

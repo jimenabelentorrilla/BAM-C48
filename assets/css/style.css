@@ -151,6 +151,13 @@ p {
   background-color: #2ca5e0;
   color: #FFFFFF;
 }
+.container-search{
+  width: 50%;
+  height: 200px;
+  background-color: #1877f2;
+}
+
+
 
 /*Media querys**/
 
