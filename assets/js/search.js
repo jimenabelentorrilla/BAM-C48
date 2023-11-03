@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const showTarjeta = () =>{
         tarjeta.classList.add("tarjeta");
         btnClose.classList.add("block");
+        boxContent.classList.add("ul-st");
         limpiarHTML()
     }
     
@@ -25,6 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const closeTarjeta = () => {
         tarjeta.classList.remove("tarjeta");
         btnClose.classList.remove("block");
+        boxContent.classList.remove("ul-st");
         limpiarHTML()
     }
 
