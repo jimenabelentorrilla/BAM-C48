@@ -156,8 +156,38 @@ p {
   height: 200px;
   background-color: #1877f2;
 }
-
-
+.tarjeta{
+  width: 45%;
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 4px rgba(0,0,0,.1),0 2px 30px rgba(0,0,0,.2);
+  height: 400px;
+  position: absolute;
+  z-index: 99;
+  transition: all .3s;
+  opacity: 1;
+  transform: scaleY(1);
+  transition-delay: .4s;
+}
+.fixed{
+  display: flex;
+  flex-direction: row;
+}
+.buton-close{
+  border: 1px solid;
+  border-top: none;
+  border-left: none;
+  width: 64px !important;
+  height: 64px !important;
+  background: #fff;
+  display: none;
+}
+.buton-close:hover{
+  color:#FFFFFF !important;
+  background-color: #00334d;
+}
+.block{
+  display: block;
+}
 
 /*Media querys**/
 
@@ -172,6 +202,10 @@ p {
     display: none;
   } 
   .fixed {
+    width: 100%;
+  }
+  .tarjeta{
+    left: 0;
     width: 100%;
   }
 }
@@ -189,6 +223,10 @@ p {
   .fixed {
     width: 100%;
   }
+  .tarjeta{
+    left: 0;
+    width: 100%;
+  }
 }
 
 @media (min-width: 768px) {
@@ -203,6 +241,9 @@ p {
   }
   .fixed {
     width: 45%;
+  }
+  .tarjeta{
+    left: 55%;
   }
 }
 
@@ -219,6 +260,9 @@ p {
   .fixed {
     width: 45%;
   }
+  .tarjeta{
+    left: 55%;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -231,6 +275,9 @@ p {
   .fixed {
     width: 45%;
   }
+  .tarjeta{
+    left: 55%;
+  }
 }
 
 @media (width > 1400px) {
@@ -242,5 +289,8 @@ p {
   }
   .fixed {
     width: 45%;
+  }
+  .tarjeta{
+    left: 55%;
   }
 }
