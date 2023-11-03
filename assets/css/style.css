@@ -225,7 +225,6 @@ ul{
     width: 100%;
   }
   .tarjeta{
-    left: 0;
     width: 100%;
   }
 }
@@ -244,7 +243,6 @@ ul{
     width: 100%;
   }
   .tarjeta{
-    left: 0;
     width: 100%;
   }
 }
@@ -263,7 +261,8 @@ ul{
     width: 45%;
   }
   .tarjeta{
-    left: 55%;
+    width: 45%;
+    right: 0%;
   }
 }
 
@@ -281,7 +280,8 @@ ul{
     width: 45%;
   }
   .tarjeta{
-    left: 55%;
+    width: 45%;
+    right: 0%;
   }
 }
 
@@ -296,7 +296,8 @@ ul{
     width: 45%;
   }
   .tarjeta{
-    left: 55%;
+    width: 45%;
+    right: 0%;
   }
 }
 
@@ -311,6 +312,7 @@ ul{
     width: 45%;
   }
   .tarjeta{
-    left: 55%;
+    width: 45%;
+    right: 0%;
   }
 }
