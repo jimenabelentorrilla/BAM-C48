@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
         tarjeta.classList.add("tarjeta");
         btnClose.classList.add("block");
         boxContent.classList.add("ul-st");
-        limpiarHTML()
     }
     
     btnShow.addEventListener("click", showTarjeta);
@@ -34,7 +33,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
     /**array de movimientos*/
-    const movimientos = ["sarasa", "pepito", "agustin", "jimena"];
+    const movimientos = ["accion", "art brut", "art deco", "arte abstracto", "arte cinetico", "arte conceptual", "arte povera", "art noveau", "barroco",
+    "cinquecento", "constructivismo", "cubismo", "dadaismo", "expresionismo", "expresionismo abstracto", "fauvismo", "futurismo", "hiperrealismo"
+    , "impresionismo", "informalismo", "land art", "manierismo", "minimalismo", "neoclasicismo", "neoplasticismo", "nouveau realisme", "nueva figuracion",
+    "nueva objetividad", "nuevo realismo", "op art", "orfismo", "orientalismo", "pintura metafisica", "pop art", "post impresionismo", 
+    "post impresionismo", "post modernidad", "precisionismo", "primitivismo", "proto-renacimiento", "quattrocento", "realismo",
+    "realismo social", "renacimiento del norte de europa", "rococo", "romaticismo", "simbolismo", "street art", "suprematismo", "surrealismo"];
    
     /**funcion para mostrar movimientos**/
 
@@ -58,9 +62,9 @@ document.addEventListener("DOMContentLoaded", () => {
             );
             
             if (mostrarFiltrado.length) {
-                mostrarMov(mostrarFiltrado)
+                mostrarMov(mostrarFiltrado);
             } else {
-                noResultado()
+                noResultado();
             }
         })
     }
