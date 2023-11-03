@@ -7,7 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 /****Abrir y cerrar search*/
     
-    const tarjeta = document.getElementById("tarjeta-color");
+    const tarjeta = document.getElementById("box");
+    const boxContent = document.getElementById("box-cont");
     const btnShow = document.getElementById("btnShow");
     const btnClose = document.getElementById("btnClose");
 
@@ -38,9 +39,9 @@ document.addEventListener("DOMContentLoaded", () => {
     function mostrarMov(movimientos){
 
         movimientos.forEach(movimiento => {
-            const elements = document.createElement("P");
+            const elements = document.createElement("li");
             elements.innerHTML =  `<strong>${movimiento}</strong>`;
-            tarjeta.appendChild(elements);      
+            boxContent.appendChild(elements);      
         })
     }
     /***buscador de mov */
@@ -65,17 +66,17 @@ document.addEventListener("DOMContentLoaded", () => {
     /***actualiza y limpiar HTML****/
 
     function limpiarHTML() {
-        while (tarjeta.firstChild) { 
-            tarjeta.removeChild(tarjeta.firstChild)
+        while (boxContent.firstChild) { 
+            boxContent.removeChild(boxContent.firstChild)
         }
     }
 
     /***funcion no resultado */
 
     function noResultado(){
-        const noResultado = document.createElement("DIV");
-        noResultado.textContent = "No hemos encontrado resultados";
-        tarjeta.appendChild(noResultado)
+        const noResultado = document.createElement("P");
+        noResultado.textContent = "No hemos encontrado resultados para esa búsqueda.";
+        boxContent.appendChild(noResultado)
     }
 
 

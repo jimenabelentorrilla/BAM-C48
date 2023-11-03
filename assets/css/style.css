@@ -160,7 +160,7 @@ p {
   width: 45%;
   background-color: #FFFFFF;
   box-shadow: 0 1px 4px rgba(0,0,0,.1),0 2px 30px rgba(0,0,0,.2);
-  height: 400px;
+  height: 200px;
   position: absolute;
   z-index: 99;
   transition: all .3s;
@@ -188,7 +188,9 @@ p {
 .block{
   display: block;
 }
-
+ul {
+  margin-bottom: 0 !important;
+}
 /*Media querys**/
 
 @media (width < 460px) {
