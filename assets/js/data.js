@@ -38,7 +38,7 @@ const movimientos = [
     {
         "id": "8",
         "name": "art noveau",
-        "url": "artnoveau"
+        "url": "artnouveau"
     },
     {
         "id": "9",
