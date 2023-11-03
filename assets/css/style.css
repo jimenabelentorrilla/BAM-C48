@@ -160,7 +160,7 @@ p {
   width: 45%;
   background-color: #FFFFFF;
   box-shadow: 0 1px 4px rgba(0,0,0,.1),0 2px 30px rgba(0,0,0,.2);
-  height: 200px;
+  height: 230px;
   position: absolute;
   z-index: 99;
   transition: all .3s;
@@ -188,9 +188,27 @@ p {
 .block{
   display: block;
 }
-ul {
-  margin-bottom: 0 !important;
+ul{
+   margin-bottom: 0 !important;
 }
+
+.ul-st{
+  padding: 32px 70px;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  gap: 15px;
+  align-items: flex-start;
+}
+.ul-st li a{
+  color:#00334d;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+
 /*Media querys**/
 
 @media (width < 460px) {

@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         movimientos.forEach(movimiento => {
             const elements = document.createElement("li");
-            elements.innerHTML =  `<strong>${movimiento}</strong>`;
+            elements.innerHTML =  `<a href="#"><strong>${movimiento}</strong></a>`;
             boxContent.appendChild(elements);      
         })
     }
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 movimiento.toLowerCase().startsWith(inputText)
             );
             
-            if (mostrarFiltrado.length){
+            if (mostrarFiltrado.length) {
                 mostrarMov(mostrarFiltrado)
             } else {
                 noResultado()
