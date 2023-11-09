@@ -166,7 +166,6 @@ p {
   transition: all .3s;
   opacity: 1;
   transform: scaleY(1);
-  transition-delay: .4s;
 }
 .fixed{
   display: flex;

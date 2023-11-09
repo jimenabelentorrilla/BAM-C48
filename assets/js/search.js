@@ -50,6 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function buscarMov(){
         btnShow.addEventListener("keyup", e => {
             limpiarHTML()
+            showTarjeta()
             const inputText = e.target.value.toLowerCase().trim() /* cada vez que se ingresen valores en el input se guardaran en esta variable, en minuscula y quitando espacios en blanco**/ 
 
             if (inputText === ''){
