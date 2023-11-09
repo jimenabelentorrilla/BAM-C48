@@ -8,10 +8,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
 /****Abrir y cerrar search*/
     
-    const tarjeta = document.getElementById("box");
-    const boxContent = document.getElementById("box-cont");
-    const btnShow = document.getElementById("btnShow");
-    const btnClose = document.getElementById("btnClose");
+    const tarjeta = document.querySelector(".box");
+    const boxContent = document.querySelector(".box-cont");
+    const btnShow = document.querySelector(".btnShow");
+    const btnClose = document.querySelector(".buton-close");
     
     /**funcion para mostrar tarjeta**/ 
 
