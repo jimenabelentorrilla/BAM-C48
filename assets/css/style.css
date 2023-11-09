@@ -187,6 +187,7 @@ p {
 .block{
   display: block;
 }
+
 ul{
    margin-bottom: 0 !important;
 }
@@ -205,6 +206,12 @@ ul{
   text-transform: capitalize;
   font-weight: 500;
   font-size: 20px;
+}
+.form-control:focus {
+  background-color: #fbfaf4 !important;
+  border-color: none;
+  outline: 0;
+  box-shadow:none !important;
 }
 
 
