@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         boxContent.classList.add("ul-st");
     };
     
-    btnShow.addEventListener("click", showTarjeta);
+    //btnShow.addEventListener("click", showTarjeta);
     
     /**funcion para cerrar tarjeta**/
 
