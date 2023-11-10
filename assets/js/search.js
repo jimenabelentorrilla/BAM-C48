@@ -92,7 +92,16 @@ document.addEventListener("DOMContentLoaded", () => {
         boxContent.appendChild(buscando)
     }
 
+/****boton like***** */
 
+const sarasa = document.querySelectorAll(".sarasa");
 
+function clickCorazon() {
+    sarasa.forEach(e => {
+        e.addEventListener("click", function() {
+            e.classList.toggle("like");
+        });
+    });
+}
 
-
+clickCorazon();
