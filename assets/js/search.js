@@ -98,8 +98,10 @@ const sarasa = document.querySelectorAll(".sarasa");
 
 function clickCorazon() {
     sarasa.forEach(e => {
-        e.addEventListener("click", function() {
+        e.addEventListener("click", function(event) {
+            event.preventDefault();
             e.classList.toggle("like");
+           
         });
     });
 }
