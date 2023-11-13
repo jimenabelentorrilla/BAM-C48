@@ -253,7 +253,36 @@ ul{
   height: 80vh;
   padding:54px 36px;
 }
-
+.wish-img{
+  width: 72px;
+  height: 72px;
+  border-radius:2px;
+}
+.wish-card-flex{
+  display: flex;
+  flex-direction: column;
+}
+.wish-card-flex a{
+  text-decoration: none;
+}
+.cnt-wish{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.wish-p{
+  font-size: 20px;
+  font-weight: 700;
+  color:#00334d;
+}
+.wish-info{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
 
 
 
