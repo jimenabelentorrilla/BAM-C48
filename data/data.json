@@ -1,0 +1,2426 @@
+[
+    {
+        "id": "01",
+        "title": "Proto-Renacimiento",
+        "years": "1300–1400",
+        "paragraph": "<span>...O</span> <strong>Primer Renacimiento</strong>, o <strong>Renacimiento primitivo</strong>, o <strong>Renacimiento temprano</strong> o <strong>Renacimiento inicial</strong> o <strong>Prerrenacimiento...</strong><br>  En torno al <strong>siglo XIV</strong> algo cambia en Europa. Se supone que estamos en la edad media, pero algo empieza a revolucionarse en la política (se consolidan los estados europeos), la sociedad  (la burguesía empieza a ascender), la economía (es aquí cuando nace el capitalismo)… y por supuesto  la cultura.<br> De pronto es el hombre, y no Dios, el centro de todo. De pronto artistas y artesanos son valorados. De pronto se empieza a usar el naturalismo, la armonía y las proporciones matemáticas para crear belleza. <br> El artista se vuelve un científico, debe saber de muchas disciplinas para desarrollar su oficio. Ya no practica solo actividades viles y mecánicas. Ahora su oficio empieza a elevarse. <strong>El artista empieza a soñar.</strong><br> En el <strong>proto-renacimiento</strong> estamos entre dos mundos. Estamos en el <strong>gótico</strong> (recordemos que este es un nombre a posteriori, pues para los renacentistas este era un arte  de bárbaros, de godos), pero se empieza a sentir el <strong>Quattrocento.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Extracción de la piedra de la locura",
+            "artist": "Hyeronimus Bosch",
+            "country": "Países Bajos",
+            "year": "1480"
+        },
+        {
+            "ruta": "02",
+            "title": "La matanza de los inocentes",
+            "artist": "Giotto",
+            "country": "Italia",
+            "year": "1306"
+        },
+        {
+            "ruta": "03",
+            "title": "El descendimiento",
+            "artist": "Rogier Van der Weyden",
+            "country": "Flandes",
+            "year": "1435"
+        },
+        {
+            "ruta": "04",
+            "title": "El banquete de Herodes",
+            "artist": "Giotto",
+            "country": "Italia",
+            "year": "1315"
+        },
+        {
+            "ruta": "05",
+            "title": "Lamentación sobre Cristo muerto",
+            "artist": "Giotto",
+            "country": "Italia",
+            "year": "1306"
+        },
+        {
+            "ruta": "06",
+            "title": "El matrimonio Arnolfini",
+            "artist": "Jan Van Eyck",
+            "country": "Países Bajos",
+            "year": "1434"
+        }
+    ]
+    },
+    {
+        "id": "02",
+        "title": "Quatroccento",
+        "years": "1400–1500",
+        "paragraph": "<span>E</span>l <strong>Quattrocento</strong> (cuatrocientos, los años del siglo XV) es un período clave para el arte occidental. Digamos que es ahí donde nace el arte como lo conocemos hoy. Y <strong>el artista, que deja de ser anónimo.</strong><br> Como véis es una palabra Italiana, pues es ahí donde se inicia todo. La edad media acaba y se empieza a valorar la antigüedad, el <strong>arte clásico griego y romano.</strong> Pero todos esos nuevos artistas e intelectuales no quieren sólo imitar esa época mítica. Lo quieren superar. <br> También se empieza a valorar al ser humano <strong>(humanismo).</strong> Eso da como resultado la representación de la figura humana como tema, se  busca imitar las cosas como son (anatomía, profundidad, proporción, perspectiva…).",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Madonna con niño, Santa Rosa y Santa Catarina",
+            "artist": "Pietro Perugino",
+            "country": "Italia",
+            "year": "1495"
+        },
+        {
+            "ruta": "02",
+            "title": "La Primavera",
+            "artist": "Sandro Botticelli",
+            "country": "Italia",
+            "year": "1480"
+        },
+        {
+            "ruta": "03",
+            "title": "Natividad",
+            "artist": "Piero della Francesca",
+            "country": "Italia",
+            "year": "1475"
+        },
+        {
+            "ruta": "04",
+            "title": "Santa Catalina",
+            "artist": "Fernando Yáñez de la Almedina",
+            "country": "España",
+            "year": "1510"
+        },
+        {
+            "ruta": "05",
+            "title": "Madonna de la Humildad",
+            "artist": "Fra Angelico",
+            "country": "Italia",
+            "year": "1440"
+        },
+        {
+            "ruta": "06",
+            "title": "Las proporciones de la cabeza, según da Vinci",
+            "artist": "Leonardo da Vinci",
+            "country": "Italia",
+            "year": "1490"
+        }
+    ]
+
+    },
+    {
+        "id": "03",
+        "title": "Cinquecento",
+        "years": "1530–1600",
+        "paragraph": "<span>E</span>l <strong>Cinquecento</strong> (es decir, [mil] quinientos en italiano) es el siguiente paso de la evolución del arte iniciado en el <u>quattrocento.</u> Se desarrolla a tope el <br> <strong>antropocentrismo humanista,</strong> principal rasgo de la Edad Moderna, y estilísticamente se caracteriza por la inspiración en la antigüedad clásica, sobre todo en lo que se refiere a la <strong>imitación de la naturaleza.</strong><br> Si Florencia fue la cuna del quattrocento, el arte de este siglo tiene su sede en Roma. <br> <strong>La Roma de los papas, </strong> que serán mecenas de los grandes artistas de este periodo.<br> Por supuesto, el cinquecento se extiende muy pronto por toda Europa como una infección.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "La dama del unicornio",
+            "artist": "Rafael Sanzio",
+            "country": "Italia",
+            "year": "1506"
+        },
+        {
+            "ruta": "02",
+            "title": "El juicio final de la Capilla Sixtina",
+            "artist": "Michelangelo Buonarroti",
+            "country": "Italia",
+            "year": "1541"
+        },
+        {
+            "ruta": "03",
+            "title": "El consejo de los dioses",
+            "artist": "Rafael Sanzio",
+            "country": "Italia",
+            "year": "1518"
+        },
+        {
+            "ruta": "04",
+            "title": "Descendimiento",
+            "artist": "Pontormo",
+            "country": "Italia",
+            "year": "1528"
+        },
+        {
+            "ruta": "05",
+            "title": "Los desposorios de la Virgen",
+            "artist": "Rafael Sanzio",
+            "country": "Italia",
+            "year": "1504"
+        },
+        {
+            "ruta": "06",
+            "title": "Retrato de Baltasar Castiglione",
+            "artist": "Rafael Sanzio",
+            "country": "Italia",
+            "year": "1515"
+        }
+    ]
+
+    },
+    {
+        "id": "04",
+        "title": "Manierismo",
+        "years": "1550–1610",
+        "paragraph": "<span>C</span>uando los elementos principales del <strong>Renacimiento</strong> empezaban a entrar en crisis, el <strong>manierismo</strong> significó un progresivo abandono de la proporción de las figuras, de la perspectiva  espacial, del uso de líneas claras y definidas y de las expresiones mesuradas y dulces de los  personajes renacentistas.<br> Por ello para muchos, el <strong>manierismo</strong> es un período de <strong>transición</strong> entre el arte  <strong>renacentista</strong> y el arte <u><strong>barroco</strong></u> de los siglos siguientes.<br> El concepto de <i>maniera</i> significaba un <strong>saber hacer,</strong> y además sin esforzarse demasiado por hacerlo.  Una <strong>sofisticación,</strong> por así decirlo, pues se trata de un arte exclusivo de la corte.<br>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "La Asunción de la Virgen",
+            "artist": "Tiziano",
+            "country": "Italia",
+            "year": "1517"
+        },
+        {
+            "ruta": "02",
+            "title": "Jupiter e Ío",
+            "artist": "Antonio Allegri Correggio",
+            "country": "Italia",
+            "year": "1531"
+        },
+        {
+            "ruta": "03",
+            "title": "El rapto de Europa",
+            "artist": "Tiziano",
+            "country": "Italia",
+            "year": "1562"
+        },
+        {
+            "ruta": "04",
+            "title": "Perseo con la cabeza de Medusa",
+            "artist": "Benvenuto Cellini",
+            "country": "Italia",
+            "year": "1554"
+        },
+        {
+            "ruta": "05",
+            "title": "Leonor de Toledo y su hijo Giovanni",
+            "artist": "Bronzino",
+            "country": "Italia",
+            "year": "1544"
+        },
+        {
+            "ruta": "06",
+            "title": "Laocoonte",
+            "artist": "El Greco",
+            "country": "España",
+            "year": "1614"
+        }
+    ]
+
+    },
+    {
+        "id": "05",
+        "title": "Renacimiento del Norte de Europa",
+        "years": "1400-1600",
+        "paragraph": "<span>S</span>i en Italia el renacimiento se basaba en la vuelta al mundo clásico, esto no se ve tan claro en el <strong>renacimiento alemán, holandés o flamenco.</strong> En estos «países nórdicos», se vivió en la época otra revolución: la <strong>Reforma protestante.</strong><br> En el renacimiento del norte de Europa se dejó también atrás lo medieval. Se percibía lo que estaba sucediendo en Italia, y por supuesto este nuevo arte influyó, pero los países del norte tenían sus propias tradiciones, como la <strong>escuela flamenca,</strong> en la que todo era <strong>menos idealizado</strong> y más del «pueblo llano» y sus costumbres, más fantasioso y oscuro, mucho más detallista, siguiendo la tradición miniaturesca.<br> Aún así hay características comunes en el norte y el sur, como son el <strong>naturalismo </strong>y el <strong>humanismo.</strong><br> Hay que decir también que la gran aportación del arte flamenco a esta época fue la técnica de la <strong>pintura al óleo.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Las Edades y la Muerte",
+            "artist": "Hans Baldung",
+            "country": "Alemania",
+            "year": "1544"
+        },
+        {
+            "ruta": "02",
+            "title": "El jardín de las delicias",
+            "artist": "Hyeronimus Bosch",
+            "country": "Países Bajos",
+            "year": "1500"
+        },
+        {
+            "ruta": "03",
+            "title": "Manos que oran",
+            "artist": "Albretch Durer",
+            "country": "Alemania",
+            "year": "1508"
+        },
+        {
+            "ruta": "04",
+            "title": "La masacre de los inocentes",
+            "artist": "Pieter Bruegel",
+            "country": "Flandes",
+            "year": "1567"
+        },
+        {
+            "ruta": "05",
+            "title": "El cambista y su mujer",
+            "artist": "Quentin Massys",
+            "country": "Flandes",
+            "year": "1514"
+        },
+        {
+            "ruta": "06",
+            "title": "La visitación",
+            "artist": "Rogier Van der Weyden",
+            "country": "Flandes",
+            "year": "1440"
+        }
+    ]
+
+    },
+    {
+        "id": "06",
+        "title": "Barroco",
+        "years": "1600-1750",
+        "paragraph": "<span>E</span>l <strong>Barroco</strong> trasciende del arte. Fue un período cultural, científico, tecnológico, filosófico, político, económico… Aunque probablemente sea en el arte donde mejor se ilustra el clima del momento.<br> El siglo XVII nace con cambios políticos (los estados modernos), religiosos (la contrarreforma), tecnológicos (el telescopio), económicos (crisis) y  sociales (la burguesía). Con esa atmósfera surge un <strong>estilo anti-clásico,</strong> menos racional y más apasionado, una reacción contra lo anterior como suele -y debe- pasar a lo largo de la historia del arte.<br> El arte se volvió <strong>dinámico, teatral, efectista.</strong> Busca sorprender, asombrar. Eso no quiere decir que se elimine el realismo. Todo lo contrario: se recrudece. En esa  época de <strong>crisis económica,</strong> el hombre se enfrenta de forma más radical a la realidad.<br> Aún así se distorsiona todo, se violenta. Se potencian los contrastes (el tenebrismo) y el desequilibrio.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Triunfo de David sobre Goliat",
+            "artist": "Nicolas Poussin",
+            "country": "Francia",
+            "year": "1631"
+        },
+        {
+            "ruta": "02",
+            "title": "La muerte de la Virgen",
+            "artist": "Caravaggio",
+            "country": "Italia",
+            "year": "1606"
+        },
+        {
+            "ruta": "03",
+            "title": "Las Bodas de Tetis y Peleo",
+            "artist": "Jacob Jordaens",
+            "country": "Flandes",
+            "year": "1637"
+        },
+        {
+            "ruta": "04",
+            "title": "Retrato de Juan de Pareja",
+            "artist": "Diego Velázquez",
+            "country": "España",
+            "year": "1650"
+        },
+        {
+            "ruta": "05",
+            "title": "La peste",
+            "artist": "Gaetano Zumbo",
+            "country": "Italia",
+            "year": "1694"
+        },
+        {
+            "ruta": "06",
+            "title": "Mujeres en la ventana",
+            "artist": "Bartolomé Esteban Murillo",
+            "country": "España",
+            "year": "1675"
+        }
+    ]
+
+    },
+    {
+        "id": "07",
+        "title": "Rococó",
+        "years": "1720-1780",
+        "paragraph": "<span>E</span>n torno al 1797, <strong>Pierre-Maurice Quays</strong> bromeó sobre el nuevo arte uniendo las palabras «rocaille» y «baroque». La primera designa la ornamentación que imita piedras naturales y moluscos, la segunda, al barroco… <br>  Una vez más, un <strong>término peyorativo</strong> fue aceptado como el más eficaz por la historia del arte.<br> Por supuesto, esta corriente existía desde antes de <strong>Quays,</strong> desarrollandose a lo largo del siglo XVIII por toda Europa, pero partió de <strong>Francia,</strong> cuna de este estilo. La aristocracia francesa se aburría. Y decidieron darle una vuelta de tuerca al barroco, haciéndolo más juguetón y frívolo, menos solemne que el de la época de <strong>Luis XIV.</strong><br> Esta corriente claramente <strong>hedonista</strong> buscaba la delicadeza, elegancia, sensualidad y gracia. Todo era menos serio y más sentimental. Todo mucho más lúdico, acorde con una (alta) sociedad en busca de la felicidad.<br> Es por eso que abunda el erotismo.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Cabeza de anciano",
+            "artist": "Jean-Honoré Fragonard",
+            "country": "Francia",
+            "year": "1772"
+        },
+        {
+            "ruta": "02",
+            "title": "El niño mimado/ La falda levantada",
+            "artist": "Francois Boucher",
+            "country": "Francia",
+            "year": "1742"
+        },
+        {
+            "ruta": "03",
+            "title": "Chica con perro",
+            "artist": "Jean-Honoré Fragonard",
+            "country": "Francia",
+            "year": "1770"
+        },
+        {
+            "ruta": "04",
+            "title": "Cornelia, madre de los gracos",
+            "artist": "Angelica Kauffmann",
+            "country": "Suiza",
+            "year": "1785"
+        },
+        {
+            "ruta": "05",
+            "title": "Autorretrato de Joseph Ducreux",
+            "artist": "Joseph Ducreux",
+            "country": "Francia",
+            "year": "1791"
+        },
+        {
+            "ruta": "06",
+            "title": "El cacharrero",
+            "artist": "Francisco de Goya",
+            "country": "España",
+            "year": "1779"
+        }
+    ]
+
+    },
+    {
+        "id": "08",
+        "title": "Neoclasicismo",
+        "years": "1750-1820",
+        "paragraph": "<span>C</span>omo bien dice su nombre, una <strong>vuelta al mundo clásico</strong> tras el frenesí barroco. Así gira la rueda de la historia del arte desde sus inicios. <br> La <strong>ilustración</strong> extendió sus tentáculos hasta el arte y la razón de la <strong>antigüedad greco-romana</strong> vuelve a ser un faro por el que guiarse estética y filosóficamente.<br> Se empiezan a realizar expediciones arqueológicas para recuperar ese pasado casi mítico. Roma se convierte de nuevo en la capital cultural de occidente, y todo artista que se precie va a conocerla.<br> Después de tanta pasión desbordada, de tanto ornamento prescindible, vuelve a ponerse de moda la claridad y la sencillez.<br> <strong>Vuelve el dibujo y la forma, sobre el color y la mancha,</strong> que dejan de tener valor estético por sí mismos. Se valora la factura impecable, sin pinceladas del autor, se aprecia la <strong>temática histórica</strong> (incluida la historia presente, como la <strong>Revolución Francesa)</strong> y <strong>mitológica,</strong> mejor si estaban basadas en los clásicos.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "La canción de los ángeles",
+            "artist": "William-Adolphe Bouguereau",
+            "country": "Francia",
+            "year": "1881"
+        },
+        {
+            "ruta": "02",
+            "title": "Hermes dice a Calipso que debe dejar partir a Odiseo",
+            "artist": "John Flaxman",
+            "country": "Reino Unido",
+            "year": "1805"
+        },
+        {
+            "ruta": "03",
+            "title": "El juramento de los Horacios",
+            "artist": "Jaques-Louis David",
+            "country": "Francia",
+            "year": "1784"
+        },
+        {
+            "ruta": "04",
+            "title": "Alba",
+            "artist": "Maxfield Parrish",
+            "country": "Estados Unidos",
+            "year": "1922"
+        },
+        {
+            "ruta": "05",
+            "title": "Belisario pidiendo limosna",
+            "artist": "Jaques-Louis David",
+            "country": "Francia",
+            "year": "1781"
+        },
+        {
+            "ruta": "06",
+            "title": "La Tribuna de los Uffizi",
+            "artist": "Johan Zoffany",
+            "country": "Alemania",
+            "year": "1777"
+        }
+    ]
+
+    },
+    {
+        "id": "09",
+        "title": "Romanticismo",
+        "years": "1790-1880",
+        "paragraph": "<span>L</span>a rueda vuelve a girar… Después de un periodo racional, sereno, clásico, viene uno desbocado, pasional, subjetivo.<br> Y después del frío neoclasicismo surge el romanticismo como <strong>una tormenta después de la calma.</strong><br> El romanticismo se origina paralelamente en Alemania y el Reino Unido cuando un grupo de gentes variopintas deciden que ya están hartas de tanto racionalismo e ilustración. El mundo es más bien lo contrario… irracional. No es sereno ni intelectual. Más bien está lleno de <strong>sentimientos,</strong> de imperfecciones. Y ahí está la gracia.<br> Vuelve así ese barroco gusto por el <strong>drama,</strong> y si es con violencia, mejor que mejor. Guerras, locura, muerte… Además no está mal aderezarlo con un poco de <strong>erotismo.</strong><br> La <strong>libertad individual</strong> es ahora lo importante, y cada uno tiene su propia forma de buscarla. Muy pronto esta idea se extiende por toda Europa (el primer movimiento cultural en hacerlo) y cada país tendrá su particular forma de romanticismo, que se proyecta a su vez en distintas disciplinas artísticas.<br> El <strong>subjetivismo</strong> es un rasgo intrínseco al movimiento. <strong>El yo es lo que importa</strong> y no esa científica universalidad de la ilustración. En este sentido se exalta la personalidad individual y por consiguiente la originalidad (cada persona debe mostrar lo que la hace única), se empiezan a valorar las tradiciones nacionales, con sus respectivas épocas pasadas de esplendor.<br>Si… Aquí empiezan los nacionalismos en Europa.<br> Es por eso que nace un culto a la <strong>edad media,</strong> o mejor aún: sus <strong>ruinas</strong> (esto incluye temáticas como el ciclo artúrico o sagas de la mitología nórdica). Se valora el folclore, pues la sabiduría popular es una fuente inagotable de inspiración, como también lo es la <strong>literatura.</strong><br> Pero también lo es el <strong>exotismo</strong> (un romántico debe viajar) o <strong>la fantasía y los sueños</strong> (viajar con la mente). Los cuadros románticos pueden perfectamente estar poblados de fantasmas, brujas y monstruos.<br> Surge en esta época una idea interesante: <strong>el artista</strong> como genio, como creador, como Dios. No tiene mérito imitar la naturaleza. Si es necesario hay que crearla, y es por ello que en el romanticismo se valora la <strong>rebeldía.</strong> Romper las reglas era muy cool. Y eso incluía suicidarse de amor o de tristeza… o morir de tuberculosis. Un buen romántico debería morir joven.<br> Finalmente renace el gusto por <strong>la naturaleza,</strong> pero muy subjetiva. Es así que los <strong>paisajes son ahora un género mayor.</strong> No interesan descripciones topográficas, sino mostrar emociones humanas a través de dos vertientes principales: <strong>lo pintoresco</strong> y <strong>lo sublime.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "El mar de hielo",
+            "artist": "Caspar David Friedrich",
+            "country": "Alemania",
+            "year": "1824"
+        },
+        {
+            "ruta": "02",
+            "title": "Lisístrata",
+            "artist": "Aubrey Beardsley",
+            "country": "Reino Unido",
+            "year": "1898"
+        },
+        {
+            "ruta": "03",
+            "title": "Doña Juana la Loca",
+            "artist": "Francisco Pradilla",
+            "country": "España",
+            "year": "1877"
+        },
+        {
+            "ruta": "04",
+            "title": "La madre de Lemminkainen",
+            "artist": "Akseli Gallen-Kallela",
+            "country": "Finlandia",
+            "year": "1897"
+        },
+        {
+            "ruta": "05",
+            "title": "Expectativas",
+            "artist": "Lawrence Alma-Tadema",
+            "country": "Países Bajos",
+            "year": "1885"
+        },
+        {
+            "ruta": "06",
+            "title": "El curso del Imperio II: Estado pastoril",
+            "artist": "Thomas Cole",
+            "country": "Estados Unidos",
+            "year": "1834"
+        }
+    ]
+
+    },
+    {
+        "id": "10",
+        "title": "Realismo",
+        "years": "1840-1870",
+        "paragraph": "<span>E</span>fectivamente, los realistas repudiaban a los idealistas. El subjetivismo empezaba a agotar a los artistas que buscan algo <strong>más directo, más subjetivo, más colectivo.</strong><br> <strong>Francia</strong> vuelve a ser el lugar de origen de un movimiento revolucionario como este, que pese a mostrar <strong>la cruda realidad,</strong> no lo hacen académicamente, sino todo lo contrario.<br> Los realistas rechazan lo exageradamente emocional, es decir, lo sentimental. Rechazan lo exótico porque quieren mostrar <strong>lo cercano.</strong> ¿Y qué hay más cercano que la vida cotidiana, el día a día, la rutina, el trabajo…?<br> Es por ello que este movimiento adopta una postura activamente política, denunciando las injusticias sociales y comprometiéndose con las clases bajas y los movimientos políticos de izquierda.<br> El <strong>costumbrismo</strong> se convierte para los realistas un tema mayor para la pintura, así como el <strong>paisaje,</strong> y otros géneros como el <strong>desnudo</strong> eliminan todo idealismo, convirtiéndose a veces en lo que muchos consideraron arte obsceno.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Mujer con loro",
+            "artist": "Gustave Courbet",
+            "country": "Francia",
+            "year": "1866"
+        },
+        {
+            "ruta": "02",
+            "title": "En el jardín de la cerveza",
+            "artist": "Adolph von Menzel",
+            "country": "Alemania",
+            "year": "1883"
+        },
+        {
+            "ruta": "03",
+            "title": "Día de fiesta en el hospicio Trivulzio en Milán",
+            "artist": "Angelo Morbelli",
+            "country": "Italia",
+            "year": "1892"
+        },
+        {
+            "ruta": "04",
+            "title": "Tras la lluvia",
+            "artist": "Arjip Kuindzhi",
+            "country": "Rusia",
+            "year": "1879"
+        },
+        {
+            "ruta": "05",
+            "title": "La vacunación",
+            "artist": "Victor Tardieu",
+            "country": "Francia",
+            "year": "1923"
+        },
+        {
+            "ruta": "06",
+            "title": "Adieu!",
+            "artist": "Alfred Guillou",
+            "country": "Francia",
+            "year": "1892"
+        }
+    ]
+
+    },
+    {
+        "id": "11",
+        "title": "Impresionismo",
+        "years": "1872-1882",
+        "paragraph": "<span>D</span>e nuevo un crítico que cita peyorativamente un cuadro pone nombre a un movimiento, en este caso <i>«Impresión: sol naciente»</i> de <strong>Monet.</strong><br> La <strong>pintura impresionista</strong> nace a partir de la segunda mitad del siglo XIX y quiere, a grandes rasgos, plasmar la luz y el instante, sin importar demasiado la identidad de aquello que la proyectaba. Las cosas no se definen, sino que se pinta la <strong>impresión visual</strong> de estas cosas, y eso implica que las partes inconexas dan lugar a un todo unitario (algo que años después demostraría científica y psicológicamente la Gestalt).<br> Resumiendo, este movimiento se caracteriza por el uso de colores puros sin mezclar («todo color es relativo a los colores que le rodean»), el hecho de <strong>no ocultar la pincelada,</strong> y por supuesto darle protagonismo ante todo a la luz y el color. De esta manera las <strong>formas se diluyen imprecisas</strong> dependiendo de la luz a la que están sometidas, y una misma forma cambia dependiendo de la luz arrojada sobre ellas, dando lugar a una pintura totalmente distinta.<br> Por ello, y a partir de los paisajistas de la <strong>escuela de Barbizon,</strong> los impresionistas se centraron en la <strong>pintura al aire libre,</strong> buscando plasmar el cambio de la luminosidad, <strong>el instante.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Julie Manet y un gato",
+            "artist": "Pierre-Auguste Renoir",
+            "country": "Francia",
+            "year": "1887"
+        },
+        {
+            "ruta": "02",
+            "title": "En verano",
+            "artist": "Pierre-Auguste Renoir",
+            "country": "Francia",
+            "year": "1868"
+        },
+        {
+            "ruta": "03",
+            "title": "Mujer con sombrilla",
+            "artist": "Claude Monet",
+            "country": "Francia",
+            "year": "1875"
+        },
+        {
+            "ruta": "04",
+            "title": "El puente de Charing Cross",
+            "artist": "Claude Monet",
+            "country": "Francia",
+            "year": "1899"
+        },
+        {
+            "ruta": "05",
+            "title": "El balcón",
+            "artist": "Edouard Manet",
+            "country": "Francia",
+            "year": "1869"
+        },
+        {
+            "ruta": "06",
+            "title": "El Café-Concierto",
+            "artist": "Edouard Manet",
+            "country": "Francia",
+            "year": "1879"
+        }
+    ]
+
+    },
+    {
+        "id": "12",
+        "title": "Postimpresionismo",
+        "years": "1880-1910",
+        "paragraph": "<span>E</span>l <strong>postimpresionismo</strong> es una palabra artificial, lógicamente. Se acuñó a posteriori, cuando los artistas postimpresionistas estaba ya muertos. Ningún postimpresionista era consciente de estar en el postimpresionismo. <br> Estilísticamente no hay un rasgo definitorio que una a estos autores, pero en general todos los postimpresionistas utilizaron <strong>colores vivos, pinceladas poco discretas</strong> y unas temáticas basadas en la vida real. <br> Todos ellos intentaron también dar un paso más en cuanto emoción y expresión a la pintura y todos presentaron una visión particular de la naturaleza… una visión <strong>subjetiva</strong> del mundo.<br> El término postimpresionismo nace en 1910, cuando se hace una exposición en Londres coimisariada por el crítico <strong>Roger Fry</strong> llamada precisamente así para unificar un poco la muestra de cuadros de <strong>Van Gogh, Gauguin, Seurat y Cezanne.</strong><br>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "En la cama: el beso",
+            "artist": "Henri Toulouse-Lautrec",
+            "country": "Francia",
+            "year": "1892"
+        },
+        {
+            "ruta": "02",
+            "title": "En el Moulin Rouge",
+            "artist": "Henri Toulouse-Lautrec",
+            "country": "Francia",
+            "year": "1895"
+        },
+        {
+            "ruta": "03",
+            "title": "Anciano en pena (en las puertas de la eternidad)",
+            "artist": "Vincent Van Gogh",
+            "country": "Países Bajos",
+            "year": "1890"
+        },
+        {
+            "ruta": "04",
+            "title": "Atardecer bronce-violeta",
+            "artist": "Felix Vallotton",
+            "country": "Suiza",
+            "year": "1911"
+        },
+        {
+            "ruta": "05",
+            "title": "Cena a la luz de la lámpara",
+            "artist": "Felix Vallotton",
+            "country": "Suiza",
+            "year": "1899"
+        },
+        {
+            "ruta": "06",
+            "title": "Bodegón con tres cachorros",
+            "artist": "Paul Gauguin",
+            "country": "Francia",
+            "year": "1888"
+        }
+    ]
+
+    },
+    {
+        "id": "13",
+        "title": "Simbolismo",
+        "years": "1880-1910",
+        "paragraph": "<span>J</span><strong>ean Moréas,</strong> en <i>«Un manifiesto literario»</i> (1886), define al nuevo estilo como <i>«enemigo de la enseñanza, la declamación, la falsa sensibilidad, la descripción objetiva…».</i><br> El simbolismo es misterio, un sueño, un enigma… Frente a la sociedad industrial que ya se estaba estableciendo, se propugna un arte <strong>poético,</strong> porque en realidad de ahí viene todo, de Las flores del mal de <strong>Baudelaire.</strong><br> Hartos de tanto realismo, los artistas simbolistas vuelven a escapar de la realidad, buscando lo onírico, experimentando con drogas, volviendo de alguna manera al romanticismo de <strong>William Blake,</strong> los nazarenos y los prerrafaelitas.<br> Por eso, es muy difícil englobar estéticamente a los simbolistas en un conjunto concreto y estéril. Cada uno iba a su bola.<br> Lo que sí parece es que todos practicaron un <strong>arte antinaturalista,</strong> casi siempre espiritual, desatando a fantasía y la subjetividad frente a la objetividad científica de impresionistas y neo-impresionistas.<br> Y todo mediante el <strong>símbolo,</strong> su herramienta para la expresión del estado de ánimo, de las emociones y de las ideas del individuo.<br> Todo esto evolucionaría hasta movimientos posteriores como los nabis, el Art nouveau o el surrealismo.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Edipo y la esfinge",
+            "artist": "Gustave Moreau",
+            "country": "Francia",
+            "year": "1864"
+        },
+        {
+            "ruta": "02",
+            "title": "La virgen",
+            "artist": "Gustav Klimt",
+            "country": "Austria",
+            "year": "1913"
+        },
+        {
+            "ruta": "03",
+            "title": "Hércules y la hidra de Lerna",
+            "artist": "Gustave Moreau",
+            "country": "Francia",
+            "year": "1876"
+        },
+        {
+            "ruta": "04",
+            "title": "La pérdida de la virginidad",
+            "artist": "Paul Gauguin",
+            "country": "Francia",
+            "year": "1891"
+        },
+        {
+            "ruta": "05",
+            "title": "Peces dorados",
+            "artist": "Gustav Klimt",
+            "country": "Austria",
+            "year": "1907"
+        },
+        {
+            "ruta": "06",
+            "title": "El gran vals",
+            "artist": "Camille Claudel",
+            "country": "Francia",
+            "year": "1893"
+        }
+    ]
+
+    },
+    {
+        "id": "14",
+        "title": "Primitivismo",
+        "years": "1885",
+        "paragraph": "<span>E</span>l arte moderno le debe mucho a los pueblos primitivos: el arte prehistórico, el arte no occidental (aunque llamarle primitivo es bastante condescendiente). Una máscara africana, una momia peruana… todo lo que no estaba corrompido por la mirada occidental de las cosas fue un punto de partida para numerosos artistas modernos.<br> Nada más moderno hay que volver a los orígenes y conseguir esa <strong>inocencia de los primitivos,</strong> esa «regresión deliberada» (en palabras de <strong>Gombrich).</strong><br> El primitivismo por tanto, más que un movimiento artístico delimitado es una corriente, una inspiración para artistas de todas las épocas.<br> Primitivismo es también lo <strong>infantil,</strong> el naïf, lo arcaico, lo popular, lo espontáneamente ingenuo…<br> Casi siempre está hecho por <strong>artistas autodidactas,</strong> que frente a la técnica llenan su obra de <strong>un arte intuitivo y sugerente.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "El gato",
+            "artist": "Alberto Giacometti",
+            "country": "Suiza",
+            "year": "1954"
+        },
+        {
+            "ruta": "02",
+            "title": "Viva la vida",
+            "artist": "Frida Kahlo",
+            "country": "México",
+            "year": "1954"
+        },
+        {
+            "ruta": "03",
+            "title": "Autorretrato con el pelo",
+            "artist": "Frida Kahlo",
+            "country": "México",
+            "year": "1940"
+        },
+        {
+            "ruta": "04",
+            "title": "El hombre que camina",
+            "artist": "Alberto Giacometti",
+            "country": "Suiza",
+            "year": "1961"
+        },
+        {
+            "ruta": "05",
+            "title": "Desnudo acostado",
+            "artist": "Amedeo Modigliani",
+            "country": "Italia",
+            "year": "1918"
+        },
+        {
+            "ruta": "06",
+            "title": "La columna rota",
+            "artist": "Frida Kahlo",
+            "country": "México",
+            "year": "1944"
+        }
+    ]
+
+    },
+    {
+        "id": "15",
+        "title": "Art Nouveau",
+        "years": "1890-1905",
+        "paragraph": "<span>E</span>s la renovación artística desarrollada a caballo entre los siglos <strong>XIX y XX.</strong> Era el fin de siècle o la belle époque…<br> Dependiendo del país se conoció como <strong><i>Art Nouveau</i></strong> (Bélgica y Francia), <strong><i>Jugendstil</i></strong> (Alemania y países nórdicos), <strong><i>Sezession</i></strong> (Austria), <strong><i>Modern Style</i></strong> (Reino Unido), <strong><i>Nieuwe Kunst</i></strong> (Países Bajos), <strong><i>Liberty o Floreale</i></strong> (Italia) y <strong><i>Modernismo</i></strong> (España).<br> Todas hacen referencia a la intención de crear un arte nuevo, joven, libre y moderno. Una vez más, y como todos los movimientos, una <strong>ruptura con lo anterior,</strong> teniendo presente una idea clara: <i>«el futuro ya ha comenzado»</i><br> Se valora lo artesanal aunque sin renunciar a los avances industriales, y se repira una aspiración de democratizar la belleza o socializar el arte. Para ello se potenció la idea de que hasta <strong>los objetos más cotidianos deben tener un valor estético,</strong> además de ser accesibles a toda la población. Por eso empiezan a hacerse visibles todo tipo de objetos útiles en la vida cotidiana, incluido el mobiliario urbano, que pasó a tener gran importancia (kioscos, estaciones de metro, farolas, papeleras, urinarios​…).<br> <strong>Desaparece así la jerarquía de artes mayores y menores.</strong> Tiene el mismo valor un edificio que una joya, un cartel que un cuadro. De hecho, los propios artistas realizan los marcos para sus cuadros, los arquitectos diseñan también los muebles. <br> Estéticamente hay una evidente <strong>inspiración en la naturaleza:</strong> vegetales y las formas orgánicas se entrelazan con el motivo central; la línea recta no interesa, se prefieren las curvas y la asimetría; todo es más sensual, buscando complacer a los sentidos.<br> Es así que flores, hojas, tallos retorcidos, insectos, cabellos femeninos, rellenan todo el espacio (horror vacui).",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "El sueño de la granada",
+            "artist": "Felice Casorati",
+            "country": "Italia",
+            "year": "1913"
+        },
+        {
+            "ruta": "02",
+            "title": "Fauno",
+            "artist": "Léon Baskt",
+            "country": "Bielorusia",
+            "year": "1912"
+        },
+        {
+            "ruta": "03",
+            "title": "Desnudo femenino en escorzo",
+            "artist": "Ramón Casas",
+            "country": "España",
+            "year": "1894"
+        },
+        {
+            "ruta": "04",
+            "title": "Medicina",
+            "artist": "Gustav Klimt",
+            "country": "Austria",
+            "year": "1901"
+        },
+        {
+            "ruta": "05",
+            "title": "La guerra y nosotros",
+            "artist": "Edward Okun",
+            "country": "Polonia",
+            "year": "1923"
+        },
+        {
+            "ruta": "06",
+            "title": "La carga",
+            "artist": "Ramón Casas",
+            "country": "España",
+            "year": "1899"
+        }
+    ]
+
+    },
+    {
+        "id": "16",
+        "title": "Art Decó",
+        "years": "1900-1945",
+        "paragraph": "<span>D</span>esarrollado en <strong>París</strong> y más tarde cultivado en <strong>Hollywood</strong> como el estilo de las estrellas, fue durante años el símbolo del glamour.<br> El punto álgido del <strong>Art Decó</strong> fue en el periodo <strong>entre las dos guerras mundiales</strong> y unió a todas las artes (decorativas, gráficas, arquitectura, joyería, escultura, pintura, cine…) en un amalgama de difícil definición que engloba desde gigantescos rascacielos a pequeños objetos, incluyendo iconos tas reconocibles como el Oscar de Hollywood o el robot de Metropolis (1927) de <strong>Fritz Lang…</strong><br> Todo lo tocó, influyendo en la cultura de su tiempo y guiando la estética en nuevas y revolucionarias direcciones. El diseño industrial, la tipografía, la publicidad o la moda no serían iguales sin este movimiento.<br> Se juntan muchos estilos y movimientos vanguardistas para crear un estilo de la <i>«edad de la máquina»,</i> menos orgánico que el Art Nouveau, por lo que ahora las líneas son rectas y gusta la simetría.<br> El <strong>Art Decó</strong> es monumentalidad tomada del Antiguo Egipto, ingeniería aerodinámica e iluminación eléctrica tomada del futurismo, las formas fraccionadas del cubismo, los colores fauvistas, la geometrización de la Bauhaus…<br> Este marcado <strong>eclecticismo</strong> (porque de eso se trata el <strong>Art Decó)</strong> es fiel a su época de grandes cambios tecnológicos, políticos y sociales. Es burgués (casi puramente decorativo) y nos habla del progreso, la elegancia, lo opulento, lo exagerado, casi como una reacción contra la austeridad forzada a causa de la Primera Guerra Mundial.<br> El <strong>Art Decó</strong> es <strong>hedinista:</strong> una vía de escape ideal para fiestas con jazz y cocaína. Evidentemente entró en decadencia con la II Guerra (si es que alguna vez no fue un arte decadente), pero aún hoy se hacen cosas de ese estilo, que nunca dejó de existir desde entonces.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Pareja en la playa",
+            "artist": "Josep de Togores",
+            "country": "España",
+            "year": "1922"
+        },
+        {
+            "ruta": "02",
+            "title": "Cristo Redentor",
+            "artist": "Paul Landowski",
+            "country": "Francia",
+            "year": "1931"
+        },
+        {
+            "ruta": "03",
+            "title": "Maternidad",
+            "artist": "Tamara de Lempicka",
+            "country": "Polonia",
+            "year": "1928"
+        },
+        {
+            "ruta": "04",
+            "title": "Castillo de naipes",
+            "artist": "Zinaida Serebriakova",
+            "country": "Rusia",
+            "year": "1919"
+        },
+        {
+            "ruta": "05",
+            "title": "Alba",
+            "artist": "Maxfield Parrish",
+            "country": "Estados Unidos",
+            "year": "1922"
+        },
+        {
+            "ruta": "06",
+            "title": "Los 3 reyes magos",
+            "artist": "Joseph Christian Leyendecker",
+            "country": "Estados Unidos",
+            "year": "1900"
+        }
+    ]
+
+    },
+    {
+        "id": "17",
+        "title": "Orientalismo",
+        "years": "1750-1956",
+        "paragraph": "<span>E</span>l orientalismo más que un movimiento, <strong>fue un ardor,</strong> un ardor longevo que duro tres siglos, alcanzando a multitud de disciplinas, estilos y artistas…, <i>una preocupación importante,</i> concluyó <strong>Victor Hugo.</strong> Preocupación que <strong>emergió al calor del combo neoclasicismo + romanticismo,</strong> ofreciendo el academicismo la mayor gloria al género. <br> Asociado inevitablemente al siglo XIX, tuvo su precuela en la centuria anterior, <strong>cuando Europa observó con ojos curiosos al vecino de la derecha,</strong> un Imperio otomano que se descomponía. Era una necesidad urgente que una dama de clase alta —o muy esnob con recursos— se hiciese retratar con un buen turbante sepultada entre sedas adamascadas. Las «turquerías» es el comienzo de todo. Aunque fue con las campañas expansionas inglesas, y en especial la napoleónica en Siria y Egipto, cuando el norte de África y Oriente Medio se convierten en los territorios que narcotizan a Europa. La cosa finaliza oficialmente en 1956, cuando Francia abandona Marruecos.<br> La pintura se utilizó sabiamente como <strong>propaganda de esas potencias imperialistas</strong> para legitimarse en aquellas tierras bárbaras, apoyadas por una clase acomodada y capitalista en busca del contraste con la ilustración de sus vidas. En tierras islámicas se buscaba <strong>lo desconocido, lo misterioso y sobre todo, lo prohibido,</strong> asumiendo sus aberraciones culturales e inferioridad intelectual y moral.<br> Así, los salones de aquellos países grises e industrializados se poblaron con el desorden de populosos zocos, con combates tribales a caballo y de ricas medinas medievales, de desiertos eternos u oasis con tiendas de nómadas, de arquitecturas cupuladas y esbeltos minaretes, con escenas cortesanas o cotidianas, festividades populosas y llamadas a la oración…<br> El <strong>erotismo femenino</strong> —de amplio espectro racial— se cultivó masivamente en contextos de esclavitud, gineceos y baños comunales, sirviendo como húmedo subterfugio a la castrada sociedad cristiana del momento.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "La batalla de Tetuan",
+            "artist": "Mariano Fortuny",
+            "country": "España",
+            "year": "1865"
+        },
+        {
+            "ruta": "02",
+            "title": "Escena de El Cairo",
+            "artist": "Jacques Majorelle",
+            "country": "Francia",
+            "year": "1912"
+        },
+        {
+            "ruta": "03",
+            "title": "El vendedor de tapices",
+            "artist": "Mariano Fortuny",
+            "country": "España",
+            "year": "1870"
+        },
+        {
+            "ruta": "04",
+            "title": "La mezquita (fiesta árabe)",
+            "artist": "Pierre-Auguste Renoir",
+            "country": "Francia",
+            "year": "1881"
+        },
+        {
+            "ruta": "05",
+            "title": "Giaour a caballo",
+            "artist": "Eugene Delacroix",
+            "country": "Francia",
+            "year": "1826"
+        },
+        {
+            "ruta": "06",
+            "title": "Baño turco",
+            "artist": "Jean Auguste Dominique Ingres",
+            "country": "Francia",
+            "year": "1862"
+        }
+    ]
+
+    },
+    {
+        "id": "18",
+        "title": "Fauvismo",
+        "years": "1905-1908",
+        "paragraph": "<span>L</span>a primera vanguardia. El muy conservador crítico <strong>Louis Vauxcelles</strong> escribe: <i>«Donatello parmi les Fauves»</i> (Donatello entre las fieras) cuando ve la exposición del Salón de Otoño de 1905.<br> Fauvismo es <strong>liberar el color</strong> con respecto al dibujo, ignorar claroscuros y perspectivas, expresar sentimientos… Era gente inconformista, que como todo buen artista de vanguardia, quiere liberarse de todo lo anterior y no ser sumiso ante la herencia pictórica.<br> <strong>El color es la clave,</strong> directamente del tubo, obviando la mímesis y aplicándolo en toques rápidos y vigorosos, dotando a la obra de una sensación de <strong>espontaneidad.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Curva en el camino",
+            "artist": "André Derain",
+            "country": "Francia",
+            "year": "1906"
+        },
+        {
+            "ruta": "02",
+            "title": "La danza",
+            "artist": "André Derain",
+            "country": "Francia",
+            "year": "1906"
+        },
+        {
+            "ruta": "03",
+            "title": "La ventana abierta",
+            "artist": "Henri Matisse",
+            "country": "Francia",
+            "year": "1905"
+        },
+        {
+            "ruta": "04",
+            "title": "Mujer con abrigo púrpura",
+            "artist": "Henri Matisse",
+            "country": "Francia",
+            "year": "1937"
+        },
+        {
+            "ruta": "05",
+            "title": "La danza",
+            "artist": "Henri Matisse",
+            "country": "Francia",
+            "year": "1910"
+        },
+        {
+            "ruta": "06",
+            "title": "Lujo, calma y voluptuosidad",
+            "artist": "Henri Matisse",
+            "country": "Francia",
+            "year": "1904"
+        }
+    ]
+    },
+    {
+        "id": "19",
+        "title": "Futurismo",
+        "years": "1909-1920",
+        "paragraph": "<span>E</span>s desde Italia donde lanzaremos al mundo este manifiesto nuestro de violencia atropelladora e aventureros que huelen el horizonte, en las locomotoras de pecho ancho que pisan los raíles como enormes caballos de acero embridados de tubos y al vuelo resbaladizo de los aviones cuya hélice cruje al viento como una bandera y parece que aplauda como una loca demasiado entusiasta.incendiaria, con el cual fundamos hoy el «futurismo», porque queremos liberar este país de su fétida gangrena de profesores, de arqueólogos, de cicerones y de anticuarios. Ya durante demasiado tiempo Italia ha sido un mercado de antiguallas. Nosotros queremos liberarla de los innumerables museos que la cubren toda de cementerios innumerables. <br><i><strong>Filippo Tommaso Marinetti,</strong> «Le Figaro», 20 de febrero de 1909.</i>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Formas únicas de continuidad en el espacio",
+            "artist": "Umberto Boccioni",
+            "country": "Italia",
+            "year": "1913"
+        },
+        {
+            "ruta": "02",
+            "title": "Mi madre leyendo el periódico",
+            "artist": "Ivo Pannaggi",
+            "country": "Italia",
+            "year": "1922"
+        },
+        {
+            "ruta": "03",
+            "title": "Trabajadoras textiles",
+            "artist": "Aleksandr Deineka",
+            "country": "Rusia",
+            "year": "1917"
+        },
+        {
+            "ruta": "04",
+            "title": "Gente del futuro",
+            "artist": "Konstantin Yuon",
+            "country": "Rusia",
+            "year": "1929"
+        },
+        {
+            "ruta": "05",
+            "title": "Martillo neumático",
+            "artist": "Jacob Epstein",
+            "country": "Reino Unido",
+            "year": "1913"
+        },
+        {
+            "ruta": "06",
+            "title": "Bailes en la primavera",
+            "artist": "Francis Picabia",
+            "country": "Francia",
+            "year": "1912"
+        }
+    ]
+    },
+    {
+        "id": "20",
+        "title": "Expresionismo",
+        "years": "1905-1933",
+        "paragraph": "<span>E</span>l <strong>expresionismo</strong> fue un movimiento de vanguardia surgido en <strong>Alemania</strong> a principios del siglo XX, coincidiendo con el fauvismo francés, con el que tiene no pocos puntos en común (rechazo de la mímesis, colores violentos…) <br> Sin embargo difiere de este movimiento por tener un matiz más <strong>pesimista,</strong> más feo, por así decirlo, ya que los expresionistas alemanes no escatimaron en mostrar lo morboso, lo prohibido, lo obsceno…<br> El expresionismo viene a ser una <strong>deformación de la realidad</strong> para expresarla de forma más <strong>subjetiva</strong> (aunque en definitiva, esa puede ser una definición válida del arte: una deformación de la realidad…). Se quieren mostrar <strong>sentimientos, emociones,</strong> algo que ilustre la naturaleza y el ser humano.<br> Expresionistas, como deformadores de la realidad, los hubo desde los principios del arte (ahí tenemos los casos de <strong>Bruegel, Goya, Van Gogh o El Greco,</strong> por citar solo algunos), pero fue en esta atmósfera pre-bélica de Alemania cuando artistas de tendencias muy diversas y diferente formación y nivel intelectual se unieron para la creación de un arte más personal e intuitivo, donde predominase <strong>la visión interior del artista</strong> <i>—la«expresión»—</i> frente a la plasmación de la realidad <i>—la «impresión»—.</i><br> Tenemos así <strong>temáticas oscuras y sórdidas:</strong> la soledad, la miseria, la muerte, el sexo… Una forma de reflejar la <strong>amargura existencialista</strong> de esos años, con una visión trágica del ser humano en la que el individuo va a la deriva en la sociedad moderna, industrializada, donde se ve alienado, aislado… ¿Os suena…?",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Donne en Potsdamer Platz",
+            "artist": "Ernst Ludwig Kirchner",
+            "country": "Alemania",
+            "year": "1914"
+        },
+        {
+            "ruta": "02",
+            "title": "Sin título",
+            "artist": "Jean-Michel Basquiat",
+            "country": "Estados Unidos",
+            "year": "1982"
+        },
+        {
+            "ruta": "03",
+            "title": "La danza de los pavos",
+            "artist": "Baldomero Romero Ressendi",
+            "country": "España",
+            "year": "1967"
+        },
+        {
+            "ruta": "04",
+            "title": "Katharsis",
+            "artist": "José Clemente Orozco",
+            "country": "México",
+            "year": "1935"
+        },
+        {
+            "ruta": "05",
+            "title": "La noche de Walpurgis",
+            "artist": "Paul Klee",
+            "country": "Alemania",
+            "year": "1935"
+        },
+        {
+            "ruta": "06",
+            "title": "Castillo y sol",
+            "artist": "Paul Klee",
+            "country": "Alemania",
+            "year": "1928"
+        }
+    ]
+
+    },
+    {
+        "id": "21",
+        "title": "Cubismo",
+        "years": "1907-1917",
+        "paragraph": "<span>E</span>l crítico <strong>Louis Vauxcelles</strong> ya había bautizado a los <strong>fauves.</strong> En 1908 visitó una exposición de <strong>Braque</strong> y escandalizado escribe: <i>«Son geómetras ignorantes, que reducen el paisaje y el cuerpo humano a ínsipidos cubos».</i><br> Estas <i>«bizarreries cubiques»</i> pondrían nombre al movimiento.<br> En realidad, <strong>en el cubismo no hay cubos.</strong> Más bien todo lo contrario.<br> El <strong>cubismo</strong> consiste reconocer la <strong>naturaleza bidimensional del lienzo</strong> y <strong>no recrear la tridimensionalidad</strong> (cosa que precisamente pretende una figura como el cubo).<br> Para mirar un cubo, hace falta un sólo punto de vista, y lo que querían artistas como <strong>Braque</strong> o <strong>Picasso,</strong> inspirados por <strong>Cézanne,</strong> es mirar un objeto desde todos los puntos de vista posibles. Para entendernos, es como desmontar una caja de cartón y dejarla completamente abierta en una superficie plana, mostrando todo a la vez, y entrelazado.<br> Pero a pesar de ser pintura de vanguardia, los géneros que pintan los cubistas son de lo más clásico: bodegones, paisajes, retratos…",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "La botella de anís",
+            "artist": "Juan Gris",
+            "country": "España",
+            "year": "1914"
+        },
+        {
+            "ruta": "02",
+            "title": "Naturaleza muerta con silla de rejilla",
+            "artist": "Pablo Picasso",
+            "country": "España",
+            "year": "1912"
+        },
+        {
+            "ruta": "03",
+            "title": "Jacqueline sentada",
+            "artist": "Pablo Picasso",
+            "country": "España",
+            "year": "1954"
+        },
+        {
+            "ruta": "04",
+            "title": "Mujer sentada con Sombrero-Pescado",
+            "artist": "Pablo Picasso",
+            "country": "España",
+            "year": "1942"
+        },
+        {
+            "ruta": "05",
+            "title": "Dora Maar con uñas verdes",
+            "artist": "Pablo Picasso",
+            "country": "España",
+            "year": "1936"
+        },
+        {
+            "ruta": "06",
+            "title": "Mujer acodada en mesa",
+            "artist": "Olga Sacharoff",
+            "country": "España",
+            "year": "1915"
+        }
+    ]
+
+    },
+    {
+        "id": "22",
+        "title": "Dadaísmo",
+        "years": "1916-1923",
+        "paragraph": "<span>U</span>na de las múltiples leyendas sobre el origen del nombre dice que el porte <strong>Tristan Tzara</strong> abrió un diccionario y encontró esa palabra al <strong>azar.</strong><br> Y ese sea quizás lo más importante del dadaísmo: el caos, el azar… y tirando hacia lo gamberro, hacia lo escandaloso. Nada hacía más feliz a un dadaísta que escandalizar a un burgués.<br <strong>Dadá es anti-todo.</strong> Anti-arte, anti-literatura, anti-dadá incluso Dadá es destrucción. Una destrucción creativa si se quiere, pero destrucción. Quizás por ello no duró demasiado como movimiento.<br Sin embargo, este mensaje se expande, y poco a poco va repercutiendo en todos los campos artísticos. El caos, el azar, lo imperfecto… eso es la belleza. Después de todo, ¿no es así la vida real?.<br Los ecos del dadá retumban fuertes aún hoy en día y su influencia se percibe claramente en corrientes culturales posteriores: el surrealismo (una especie de dadaísmo con consistencia teórica), los situacionistas de los 50 (vandalismo, graffitti, slogans…), el Arte Pop, los Hippies, el Punk (nihilisimo, provocación, molestar a los padres, tipografías…), el Street Art, lo posmoderno… Todos deudores del <strong>sinsentido dadaísta.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "L.H.O.O.Q",
+            "artist": "Marcel Duchamp",
+            "country": "Francia",
+            "year": "1918"
+        },
+        {
+            "ruta": "02",
+            "title": "Torso de los Pirineos",
+            "artist": "Hans/Jean Arp",
+            "country": "Alemania",
+            "year": "1959"
+        },
+        {
+            "ruta": "03",
+            "title": "Reloj de alarma",
+            "artist": "Francis Picabia",
+            "country": "Francia",
+            "year": "1919"
+        },
+        {
+            "ruta": "04",
+            "title": "Sin título",
+            "artist": "Francis Picabia",
+            "country": "Francia",
+            "year": "1919"
+        },
+        {
+            "ruta": "05",
+            "title": "Sobre las nubes",
+            "artist": "Max Ernst",
+            "country": "Alemania",
+            "year": "1920"
+        },
+        {
+            "ruta": "06",
+            "title": "Rotorelieves",
+            "artist": "Marcel Duchamp",
+            "country": "Francia",
+            "year": "1935"
+        }
+    ]
+
+    },
+    {
+        "id": "23",
+        "title": "Nueva Objetividad",
+        "years": "1919-1933",
+        "paragraph": "<span>E</span>l crítico <strong>Gustav Friedrich Hartlaub</strong> acuña el término <strong>Die Neue Sachlichkeit</strong> en 1923 y afirma: <i>«el objetivo es superar las mezquindades estéticas de la forma a través de una nueva objetividad nacida del disgusto hacia la sociedad burguesa de la explotación» o «…lo que aquí estamos mostrando se distingue por las, en sí mismas puramente externas, características de la objetividad con la que los artistas se expresan ellos mismos…».</i><br> El grupo Neue Sachlichkeit (Nueva Objetividad) reaccionó contra el expresionismo y vuelve a una <strong>figuración «realista».</strong> Entrecomillamos realista porque es una <strong>plasmación objetiva de la realidad,</strong> con acento en lo social. Objetiva en el sentido de ser menos experimental en cuanto a búsqueda de nuevos lenguajes, menos introspectiva, y de ser más comprometido y directo.<br> Y lo objetivo para esta gente no es restarle el carácter grotesco de deformación de la realidad y caricaturización del expresionismo. Todo lo contrario.<br> Quiere ser un arte <strong>útil para el desarrollo de la sociedad,</strong> y por ello ilustraron la realidad de la posguerra alemana. Mucha denuncia social para <strong>desenmascarar la sociedad burguesa,</strong> para condenar a los políticos y militares que llevaron Alemania al desastre de la guerra.<br> De poco sirvió… 10 años después de su creación, la Alemania Nazi acaba con el movimiento.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "El acróbata Schulz V",
+            "artist": "Albert Birkle",
+            "country": "Alemania",
+            "year": "1921"
+        },
+        {
+            "ruta": "02",
+            "title": "Tríptico del Carnaval",
+            "artist": "Max Beckmann",
+            "country": "Alemania",
+            "year": "1943"
+        },
+        {
+            "ruta": "03",
+            "title": "Fiesta en París",
+            "artist": "Max Beckmann",
+            "country": "Alemania",
+            "year": "1931"
+        },
+        {
+            "ruta": "04",
+            "title": "Fantasmas en un árbol",
+            "artist": "Franz Sedlacek",
+            "country": "Austria",
+            "year": "1933"
+        },
+        {
+            "ruta": "05",
+            "title": "La tertulia",
+            "artist": "Ángeles Santos",
+            "country": "España",
+            "year": "1929"
+        },
+        {
+            "ruta": "06",
+            "title": "Retrato de Bertolt Brecht",
+            "artist": "Rudolf Schlichter",
+            "country": "Alemania",
+            "year": "1926"
+        }
+    ]
+
+    },
+    {
+        "id": "24",
+        "title": "Suprematismo",
+        "years": "1913-1922",
+        "paragraph": "<span>P</span>or mucho que no se diga, los rusos fueron pioneros en arte en los primeros años del siglo XX. Y uno de los creadores más vanguardistas de esos primeros años fue el pintor <strong>Kazimir Malévich,</strong> que promovía nada menos que la <strong>abstracción.</strong><br> Un universo sin objetos. Sin indicio visual posible. <strong>Arte no descriptivo.</strong> Quizás conseguir representar <i>«la nada», que viene a ser representarlo todo.</i><br> Pero… ¿cómo representar la nada?. Pues sencillamente no se puede, pero sí se puede crear arte centrado sólo en las propiedades físicas de la propia obra. De esa manera quizás el espectador podría llegar a la <strong>pura y simple sensación.</strong><br> Los suprematistas simplifican, ordenan todo, reducen los colores y, así, quizás los espectadores de una obra nos olvidemos que estamos ante una representación, sino ante <strong>todo el universo reducido en un cuadrado.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Cuadrado negro sobre fondo blanco",
+            "artist": "Kazimir Malevich",
+            "country": "Ucrania",
+            "year": "1915"
+        },
+        {
+            "ruta": "02",
+            "title": "La muerte de la pintura",
+            "artist": "Alexander Rodchenko",
+            "country": "Rusia",
+            "year": "1921"
+        },
+        {
+            "ruta": "03",
+            "title": "Esfera de color y círculo",
+            "artist": "Alexander Rodchenko",
+            "country": "Rusia",
+            "year": "1918"
+        },
+        {
+            "ruta": "04",
+            "title": "Bañistas",
+            "artist": "Kazimir Malevich",
+            "country": "Ucrania",
+            "year": "1908"
+        },
+        {
+            "ruta": "05",
+            "title": "La carga de la caballería roja",
+            "artist": "Kazimir Malevich",
+            "country": "Ucrania",
+            "year": "1932"
+        },
+        {
+            "ruta": "06",
+            "title": "Golpead a los blancos con la cuña roja",
+            "artist": "El Lissitzky",
+            "country": "Rusia",
+            "year": "1920"
+        }
+    ]
+
+    },
+    {
+        "id": "25",
+        "title": "Constructivismo",
+        "years": "1915-1935",
+        "paragraph": "<span>E</span>l suprematismo estaba muy bien, pero ¿era útil para el pueblo ruso, en su mayoría analfabeto?.<br> La respuesta era evidente. Ni siquiera hoy en día entendemos de todo lo que querían decir esos místicos radicales experimentando con geometrías.<br> Lo que había que hacer es <strong>llevar el suprematismo a las masas</strong> y que el arte trascendiera la ideología política.<br> El <strong>constructivismo</strong> supuso una identidad visual para el comunismo soviético y tuvo como objetivo principal llevar el arte al pueblo rescatándolo de las élites.<br> Eso no significa en modo alguno el cese de la experimentación. Los constructivistas se centraron en todos los ámbitos creativos y exprerimentaron con todas las disciplinas, técnicas y nuevas tecnologías, además de continuar la experimentación geométrica suprematista.<br> Más que arte para ser mostrado en una galería burguesa, el constructivismo hizo <strong>arte para el pueblo</strong> mezclando todas las artes en un <strong>amalgama utópico</strong> de diseño, ingeniería, arquitectura, pintura, escultura…",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Contrarrelieve de esquina",
+            "artist": "Vladimir Tatlin",
+            "country": "Rusia",
+            "year": "1914"
+        },
+        {
+            "ruta": "02",
+            "title": "El Ejército Rojo",
+            "artist": "Varvara Stepanova",
+            "country": "Rusia",
+            "year": "1930"
+        },
+        {
+            "ruta": "03",
+            "title": "La propaganda de Rodchenko",
+            "artist": "Alexander Rodchenko",
+            "country": "Rusia",
+            "year": "1925"
+        },
+        {
+            "ruta": "04",
+            "title": "Lord Kitchener Wants You",
+            "artist": "Alfred Leete",
+            "country": "Reino Unido",
+            "year": "1914"
+        },
+        {
+            "ruta": "05",
+            "title": "Desfile del Club Deportivo Dynamo, Moscú",
+            "artist": "Alexander Rodchenko",
+            "country": "Rusia",
+            "year": "1935"
+        },
+        {
+            "ruta": "06",
+            "title": "Jeu de Massacre",
+            "artist": "Fred Carasso",
+            "country": "Países Bajos",
+            "year": "1928"
+        }
+    ]
+
+    },
+    {
+        "id": "26",
+        "title": "Arte Abstracto",
+        "years": "1910",
+        "paragraph": "<span>E</span><strong>l arte abstracto es el contrario del figurativo</strong> (es decir, la representación de objetos identificables mediante imágenes reconocibles). Por tanto la abstracción no representa <i>«cosas»</i> concretas de la naturaleza sino que propone una <strong>nueva realidad.</strong> Propone un «arte puro» mirando más allá de nuestra realidad.<br> Si bien desde el primer arte elaborado por el ser humano ya tenemos ejemplo de abstracción (desde las cuevas prehistóricas hasta las decoraciones en iglesias románicas), es oficialmente <strong>Kandinsky</strong> el primero en teorizar sobre esto (aparte tenemos a los neoplasticistas o a los suprematistas, y un poco antes figuras aisladas como la de <strong>Hilma af Klint).</strong><br> El <strong>arte abstracto</strong> existe independientemente de la realidad, la aleja. El <strong>arte abstracto no representa nada</strong> en realidad, pero como eso es imposible (¡hasta un lienzo en blanco representa algo!) los artistas abstractos tiraron (tiran) por dos vertientes diferenciadas:<br> Por un lado al <strong>arte abstracto expresivo:</strong> subjetivo y espontáneo, improvisado a veces, donde el <strong>protagonismo es de la expresividad del artista,</strong> que prescinde de estructura y se vuelca en el gesto, el material y el sentimiento que provoca la obra. Es por tanto altamente ambigüo e interpretable.<br> Por otro está el <strong>arte abstracto geométrico:</strong> que pretende ser objetivo y universal, planificado, en la que la composición es estructurada y que evita toda expresividad mediante el uso de la <strong>geometría.</strong> Suele defender una factura impersonal y pretende evocar claridad y precisión.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Foca",
+            "artist": "Constantin Brancusi",
+            "country": "Rumania",
+            "year": "1943"
+        },
+        {
+            "ruta": "02",
+            "title": "Óvalo rojo",
+            "artist": "Wassily Kandinsky",
+            "country": "Rusia",
+            "year": "1920"
+        },
+        {
+            "ruta": "03",
+            "title": "La estrella matinal",
+            "artist": "Joan Miró",
+            "country": "España",
+            "year": "1940"
+        },
+        {
+            "ruta": "04",
+            "title": "Nocturno en negro y dorado: Cohete cayendo",
+            "artist": "James Whistler",
+            "country": "Estados Unidos",
+            "year": "1877"
+        },
+        {
+            "ruta": "05",
+            "title": "Retablo número 1",
+            "artist": "Hilma af Klint",
+            "country": "Suecia",
+            "year": "1915"
+        },
+        {
+            "ruta": "06",
+            "title": "Cielo azul",
+            "artist": "Wassily Kandinsky",
+            "country": "Rusia",
+            "year": "1940"
+        }
+    ]
+
+    },
+    {
+        "id": "27",
+        "title": "Pintura Metafísica",
+        "years": "1911",
+        "paragraph": "<span>L</span>a <strong>pintura metafísica</strong> (en italiano: Pittura metafísica) es un movimiento artístico genuinamente italiano que quiere mostrar pictóricamente una atmósfera onírica ubicada en plazas italianas desiertas, mezcladas con casuales yuxtaposiciones de objetos, enlazando todo con la mente <strong>inconsciente,</strong> más allá de la realidad física, de ahí el nombre metafísica.<br> Evidentemente esto fue un influencia detereminante para el movimiento surrealista que surgiría años después.<br> Lo metafísicos pretendieron explorar la <strong>vida interior del subconsciente mezclada con objetos cotidianos</strong> representados fuera de los contextos habituales. Esto da lugar a una especie de <strong>sueño pintado,</strong> un sueño bastante lúcido teniendo en cuenta el naturalismo de los objetos y arquitecturas, y el ser representados en espacios concretos.<br> Se muestra una <strong>realidad ilógica pero verosímil.</strong> Una lógica alternativa, por así decirlo. En medio de una guerra mundial, los artistas muestran espacios misteriosamente quietos y tranquilos, silenciosos. Como <strong>apacibles sueños en color.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Héctor y Andrómaca",
+            "artist": "Giorgio de Chirico",
+            "country": "Italia",
+            "year": "1917"
+        },
+        {
+            "ruta": "02",
+            "title": "Naturaleza Muerta",
+            "artist": "Giorgio Morandi",
+            "country": "Italia",
+            "year": "1930"
+        },
+        {
+            "ruta": "03",
+            "title": "El profeta",
+            "artist": "Giorgio de Chirico",
+            "country": "Italia",
+            "year": "1915"
+        },
+        {
+            "ruta": "04",
+            "title": "Beethoven",
+            "artist": "Felice Casorati",
+            "country": "Italia",
+            "year": "1928"
+        },
+        {
+            "ruta": "05",
+            "title": "La casa roja",
+            "artist": "Carlo Carrá",
+            "country": "Italia",
+            "year": "1927"
+        },
+        {
+            "ruta": "06",
+            "title": "La melancolía de la partida",
+            "artist": "Giorgio de Chirico",
+            "country": "Italia",
+            "year": "1916"
+        }
+    ]
+
+    },
+    {
+        "id": "28",
+        "title": "Surrealismo",
+        "years": "1924-1966",
+        "paragraph": "<span>A</span><strong>ndré Breton</strong> fue el gurú del surrealismo. Poeta de vocación, se unió al dadaísmo, pero al perder fuelle este movimiento decidió que había que continuarlo mediante una base teórica sólida.<br> <strong>Breton</strong> había sido camillero en hospitales psiquiátricos durante la guerra, y ahí conoció tanto la obra de <strong>Sigmund Freud</strong> como conoció la <strong>extraña realidad oculta tras la locura.</strong><br> <strong>Breton</strong> quería, con esa locura como herramienta, unir eso de <strong>Rimbaud</strong> de <i>«cambiar la vida»</i> con eso de <strong>Marx</strong> de <i>«transformar el mundo».</i> Nace así el surrealismo que según su líder <i>«se basa en la creencia en la realidad superior de ciertas formas de asociación desdeñadas hasta la aparición del mismo y en el libre ejercicio del pensamiento. Tiende a destruir definitivamente todos los restantes mecanismos psíquicos y a sustituirlos en la resolución de los principales problemas de la vida».</i><br> En principio, esta vanguardia, aún viva hoy en día, quería incorporar los conceptos psicoanalíticos de <strong>Sigmund Freud</strong> a la mentalidad Dadá.<br> De <strong>Freud</strong> interesaba sobre todo su investigación sobre el importante papel del subconsciente en el comportamiento humano, y por tanto en su faceta creativa.<br> Por ello los surrealistas empezaron a <strong>dejar al subconsciente trabajar,</strong> ya fuera mediante <strong>escritura o pintura automática,</strong> por plasmar <strong>sueños,</strong> por regresar a la <strong>infancia…</strong> en definitiva por ser <strong>libre y espontáneo.</strong><br> <strong>Acceder al subconsciente</strong> significaba mostrar pensamientos y deseos indecorosos, plasmar imágenes chocantes para exponer la depravación del ser humano, disfrazado de civilizado por la sociedad burguesa.<br> </p><h2>El surrealismo en el arte</h2><p>En sus comienzos el surrealismo era un proyecto esencialmente literario, pero poco a poco fue infectando a las demás disciplinas artísticas (pintura, escultura, fotografía, cine…).<br> Como eso del subconsciente es algo <strong>tremendamente personal,</strong> no hay un <i>«estilo surrealista».</i> Cada autor lo vivía a su manera, pero podemos distinguir en líneas generales dos formas de arte surrealista:<br> Una automática, espontánea y fluída, con universos figurativos propios.<br>Una naturalista, que muestra con figuración a veces hiperrealista el mundo de los sueños y el inconsciente.<br> El arte surrealista suele ser <strong>incongruente, onírico</strong> y <strong>muy original,</strong> en el sentido que el artista muestra su faceta más individual, aunque es curioso, pues el arte surrealista tiene <strong>algo universal,</strong> que todos podemos entender. Hasta los niños pueden captar si algo es surrealista o no.<br> Con el movimiento ya establecido en los años 30, y con los más extraordinarios artistas apoyándolo, <strong>Breton</strong> se convirtió en una especie de papa. Tan celoso era de la pureza de su teoría que realizaría purgas a todo aquel que cuestionara sus postulados.<br> Serían expulsados del movimiento figuras tan brillantes como <strong>Dalí</strong> o <strong>Artaud.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "El imperio de la luz",
+            "artist": "René Magritte",
+            "country": "Bélgica",
+            "year": "1954"
+        },
+        {
+            "ruta": "02",
+            "title": "Construcción blanda con judías hervidas (Premonición de la Guerra Civil)",
+            "artist": "Salvador Dalí",
+            "country": "España",
+            "year": "1936"
+        },
+        {
+            "ruta": "03",
+            "title": "Máquina de nacimientos",
+            "artist": "H.R. Giger",
+            "country": "Suiza",
+            "year": "1999"
+        },
+        {
+            "ruta": "04",
+            "title": "Lo que el agua me dio",
+            "artist": "Frida Kahlo",
+            "country": "México",
+            "year": "1939"
+        },
+        {
+            "ruta": "05",
+            "title": "Un amigo en necesidad",
+            "artist": "C.M. Coolidge",
+            "country": "Estados Unidos",
+            "year": "1903"
+        },
+        {
+            "ruta": "06",
+            "title": "Este es el color de mis sueños",
+            "artist": "Joan Miró",
+            "country": "España",
+            "year": "1925"
+        }
+    ]
+
+    },
+    {
+        "id": "29",
+        "title": "Orfismo",
+        "years": "1911-1914",
+        "paragraph": "<span>G</span><strong>uillaume Apollinaire</strong> bautiza en 1913 a esta tendencia colorista y abstracta del cubismo parisino que exalta ante todo el color y la luz. Lo hace en parte para distanciarse del frenesí futurista que estaba arrasando París y que él consideraba <i>«una bobada».</i><br> El <strong>Orfismo</strong> viene de <strong>Orfeo,</strong> tan virtuoso con la lira que conectaba con el alma. El arte de esta gente pretendía precisamente eso: cuadros que vibraran en armonía y tono, como una composición musical.<br> Esto conecta con los postulados del arte abstracto, que se había inspirado en la <strong>música,</strong> y de hecho el orfismo es considerado una <strong>pre-abstracción,</strong> ya que la música, sino está acompañada de palabras, es absolutamente abstracta.<br> Prescindir de elementos figurativos y trabajar solo con color y luz, ese era la idea. De hecho, en las obras orfistas a veces no se sabe de qué se está hablando. A veces son formas indefinibles en las que <strong>el color</strong> es el único tema del cuadro, por lo que están incluidas en el eterno debate de cuál fue la primera obra abstracta.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Catedral",
+            "artist": "Frantisek Kupka",
+            "country": "República Checa",
+            "year": "1913"
+        },
+        {
+            "ruta": "02",
+            "title": "Planos por colores, gran desnudo",
+            "artist": "Frantisek Kupka",
+            "country": "República Checa",
+            "year": "1910"
+        },
+        {
+            "ruta": "03",
+            "title": "Jardinería",
+            "artist": "Natalia Goncharova",
+            "country": "Rusia",
+            "year": "1908"
+        },
+        {
+            "ruta": "04",
+            "title": "Mujer portuguesa",
+            "artist": "Robert Delaunay",
+            "country": "Francia",
+            "year": "1916"
+        },
+        {
+            "ruta": "05",
+            "title": "El equipo de Cardiff",
+            "artist": "Robert Delaunay",
+            "country": "Francia",
+            "year": "1913"
+        },
+        {
+            "ruta": "06",
+            "title": "Retrato de Tristan Tzara",
+            "artist": "Robert Delaunay",
+            "country": "Francia",
+            "year": "1923"
+        }
+    ]
+
+    },
+    {
+        "id": "30",
+        "title": "Neoplasticismo",
+        "years": "1917-1931",
+        "paragraph": "<span>O</span> <strong>constructivismo holandés</strong> también llamado De <strong>Stijl.</strong> Es un nuevo (neo) enfoque de las artes plásticas (plasticismo) basado en relaciones universales.<br> ¡Qué difícil es destilar todo lo que sabemos y sentimos en un sistema simplificado!<br> Pues eso intento <strong>Piet Mondrian.</strong> Uniendo <strong>cubismo</strong> y <strong>teosofía,</strong> reivindicó un <strong>proceso de abstracción progresiva</strong> donde las formas se irían reduciendo a líneas rectas horizontales y verticales, y los colores a los tres primarios, el blanco y el negro.<br> No existe la profundidad, no existe ningún tipo de referencia figurativa, no existe ni siquiera una simbología. El neoplasticismo es <strong>arte puro:</strong> línea y color, unidas en un mismo espacio.<br> Para los neoplasticistas era imprescindible rechazar cualquier motivo reconocible, no se debía imitar la vida real. Consideraban que <strong>el arte forma ya parte de la vida real,</strong> así que no es necesaria su imitación.<br> La <strong>abstracción</strong> en este y otros estilos, coincidentes en el tiempo en Europa, era una forma de contribuir a un mundo nuevo y mejor después de una horrible guerra mundial… Aunque quedaba por venir otra…",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Bosque",
+            "artist": "Piet Mondrian",
+            "country": "Países Bajos",
+            "year": "1908"
+        },
+        {
+            "ruta": "02",
+            "title": "Molino al sol",
+            "artist": "Piet Mondrian",
+            "country": "Países Bajos",
+            "year": "1908"
+        },
+        {
+            "ruta": "03",
+            "title": "De Stijl 1",
+            "artist": "Peter Keler",
+            "country": "Alemania",
+            "year": "1922"
+        },
+        {
+            "ruta": "04",
+            "title": "Composición en Blanco y Negro",
+            "artist": "Piet Mondrian",
+            "country": "Países Bajos",
+            "year": "1917"
+        },
+        {
+            "ruta": "05",
+            "title": "Broadway Boogie Woogie",
+            "artist": "Piet Mondrian",
+            "country": "Países Bajos",
+            "year": "1943"
+        },
+        {
+            "ruta": "06",
+            "title": "Composición en rojo, amarillo y azul",
+            "artist": "Piet Mondrian",
+            "country": "Países Bajos",
+            "year": "1921"
+        }
+    ]
+
+    },
+    {
+        "id": "31",
+        "title": "Precisionismo",
+        "years": "1920-1932",
+        "paragraph": "",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Pelvis con distancia",
+            "artist": "Georgia O'Keeffe",
+            "country": "Estados Unidos",
+            "year": "1943"
+        },
+        {
+            "ruta": "02",
+            "title": "Aucassin y Nicolette",
+            "artist": "Charles Demuth",
+            "country": "Estados Unidos",
+            "year": "1920"
+        },
+        {
+            "ruta": "03",
+            "title": "Vaca lamiendo",
+            "artist": "Georgia O'Keeffe",
+            "country": "Estados Unidos",
+            "year": "1921"
+        },
+        {
+            "ruta": "04",
+            "title": "Radiator Building, Noche en Nueva York",
+            "artist": "Georgia O'Keeffe",
+            "country": "Estados Unidos",
+            "year": "1927"
+        },
+        {
+            "ruta": "05",
+            "title": "Línea gris con negro, azul y amarillo",
+            "artist": "Georgia O'Keeffe",
+            "country": "Estados Unidos",
+            "year": "1923"
+        },
+        {
+            "ruta": "06",
+            "title": "Nube de tormenta, Lago George",
+            "artist": "Georgia O'Keeffe",
+            "country": "Estados Unidos",
+            "year": "1923"
+        }
+    ]
+
+    },
+    {
+        "id": "32",
+        "title": "Expresionismo Abstracto",
+        "years": "1943-1965",
+        "paragraph": "<span>E</span>l <strong>expresionismo abstracto</strong> fue ese movimiento pictórico dentro de la abstracción posterior a la Segunda Guerra Mundial y el Holocausto. Tras estos terribles acontecimientos siguió un periodo de lógica <strong>incertidumbre</strong> y de cuestionamiento de la moral humana.<br> Esto da como resultado la proliferación de obras de arte que incluían <strong>formas de creación desgarradas</strong> en las que quedaba a un lado el goce estético tal y como se entendía hasta entonces. Un desencanto por lo colectivo dio como resultado obras muy personales.<br> Se considera <strong>el primer movimiento genuinamente estadounidense</strong> y se dice por ello que incluso fue directamente financiado por la CIA en el contexto de la Guerra Fría. Estados Unidos (Nueva York en realidad) había sustituido a París como capital artística y los expresionistas abstractos cogieron el testigo de la vanguardia. El país, líder ahora del mundo libre, necesitaba un arte propio que liderara el arte occidental. Y qué mejor que un arte individual cuya principal característica es la <strong>libertad.</strong><br> Los expresionistas abstractos fueron unos tipos (y tipas) fascinados por la soledad y el proceso. <strong>Individualistas,</strong> decidieron mostrar el carácter expresivo del arte investigando en búsquedas personales, más que colectivas. El artista desalentado por su contexto político y social se refugia ahora en su interior y abandona toda referencia externa. Se valora por tanto <strong>el gesto,</strong> una especie de huella dactilar del artista, porque es algo único de cada uno.<br> Se potencia también la <strong>materialidad del cuadro</strong> y convierten <strong>el proceso artístico casi en un rito religioso,</strong> siendo la pintura la prueba documental del mismo. La <strong>improvisación</strong> formaba parte de este trance casi místico, en el que el artista entraba en contacto directo con sí mismo. Este <strong>automatismo</strong> podría derivar del surrealismo, que aún estaba vivo en esos años.",   
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Delta Theta",
+            "artist": "Morris Louis",
+            "country": "Estados Unidos",
+            "year": "1961"
+        },
+        {
+            "ruta": "02",
+            "title": "Bonjour Julie (Proper)",
+            "artist": "Joan Mitchell",
+            "country": "Estados Unidos",
+            "year": "1971"
+        },
+        {
+            "ruta": "03",
+            "title": "Inmersión azul",
+            "artist": "Joan Miró",
+            "country": "España",
+            "year": "1961"
+        },
+        {
+            "ruta": "04",
+            "title": "Profecía",
+            "artist": "Lee Krasner",
+            "country": "Estados Unidos",
+            "year": "1956"
+        },
+        {
+            "ruta": "05",
+            "title": "Pintura abstracta",
+            "artist": "Ad Reinhardt",
+            "country": "Estados Unidos",
+            "year": "1963"
+        },
+        {
+            "ruta": "06",
+            "title": "PH-971",
+            "artist": "Clyfford Still",
+            "country": "Estados Unidos",
+            "year": "1967"
+        }
+    ]
+    },
+    {
+        "id": "33",
+        "title": "Art Brut",
+        "years": "1945",
+        "paragraph": "<span>E</span>l <strong>Art Brut</strong> es un término acuñado en 1945 por <strong>Jean Dubuffet</strong> para referirse al arte creado por gentes ajenas al mundo artístico, sin una formación académica.<br> Según él, todos tenemos un potencial creativo que las normas sociales anulan. Es el caso del arte creado por <strong>locos, autodidactas, indadaptados, niños, ancianos…</strong><br> Lo bello era lo contrario de todo lo vital y estimulante. «La belleza es pura secreción de la cultura como los cálculos lo son del riñón», decía <strong>Dubuffet.</strong> La cultura oficial era tan rígida que ahogaba la invención y estigmatiza como carente de valor todo lo que no entre dentro de sus excluyente límites.<br> El <strong>Art Brut</strong> consiste en la ausencia de formación artística, ignorancia de toda tradición cultural, reinvención de las etapas del acto creador, elaboración de la obra en el anonimato y en el desarrollo autárquico de las producciones.<br> Es por tanto un <strong>arte ecléctico,</strong> son casi obras «no encasillables», y se caracterizan como un rasgo común por su política de abstención en cuanto a toda operación comercial. El <strong>carácter no lucrativo</strong> es una regla esencial. A nivel estético abunda de todo, pero se prodrían apreciar características comunes con el expresionismo. Se le llamó también <strong>Arte Marginal,</strong> fuera de los límites de la cultura oficial. Echad un vistazo a la alucinante colección de Art Brut de Dubuffet en Lausanne.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Sitio habitado por objetos",
+            "artist": "Jean Dubuffet",
+            "country": "Francia",
+            "year": "1965"
+        },
+        {
+            "ruta": "02",
+            "title": "Capilla del Santísimo",
+            "artist": "Miquel Barceló",
+            "country": "España",
+            "year": "2006"
+        },
+        {
+            "ruta": "03",
+            "title": "El árbol de la vida",
+            "artist": "Séraphine Louis",
+            "country": "Francia",
+            "year": "1928"
+        },
+        {
+            "ruta": "04",
+            "title": "Macho cabrío y cabra",
+            "artist": "Miquel Barceló",
+            "country": "España",
+            "year": "1992"
+        }
+    ]
+    },
+    {
+        "id": "34",
+        "title": "Informalismo",
+        "years": "1950-1960",
+        "paragraph": "<span>S</span>e podría considerar informalismo a un <strong>expresionismo abstracto europeo.</strong> Pero eso sería simplificar un poco las cosas. Y el informalismo es expresionismo y es abstracto, pero no es exactamente expresionismo abstracto.<br> El informalismo aparece en Europa después de la Segunda Guerra y su principal característica es <strong>el uso de materiales.</strong><br> Lo matérico y gestual, el azar y la improvisación, y una base ideológica fuertemente vinculada con el <strong>existencialismo.</strong> La <strong>subjetividad individual</strong> que intentara mostrar el abismo interior. La diferencia principal entre ambas corrientes, además de lo geográfico, es que el informalismo es quizás <strong>más poético,</strong> más íntimo que los épicos lienzos del expresionismo abstracto americano. Es también <strong>más estático,</strong> y más discreto. No tiene una personalidad tan consciente de su impacto en el arte. Es, por así decirlo, <i>«menos comercial».</i>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Azul emblemático",
+            "artist": "Antoni Tápies",
+            "country": "España",
+            "year": "1971"
+        },
+        {
+            "ruta": "02",
+            "title": "Capilla del Santisimo",
+            "artist": "Miquel Barceló",
+            "country": "España",
+            "year": "2006"
+        },
+        {
+            "ruta": "03",
+            "title": "Gran Equis",
+            "artist": "Antoni Tápies",
+            "country": "España",
+            "year": "1962"
+        },
+        {
+            "ruta": "04",
+            "title": "Macho cabrío y cabra",
+            "artist": "Miquel Barceló",
+            "country": "España",
+            "year": "1992"
+        },
+        {
+            "ruta": "05",
+            "title": "Brisements",
+            "artist": "Miquel Barceló",
+            "country": "España",
+            "year": "2014"
+        },
+        {
+            "ruta": "06",
+            "title": "Dibujo de mescalina",
+            "artist": "Henri Michaux",
+            "country": "Francia",
+            "year": "1959"
+        }
+    ]
+    },
+    {
+        "id": "35",
+        "title": "Nueva Figuración",
+        "years": "1945-1970",
+        "paragraph": "<span>L</span>a <strong>Nueva figuración</strong> es un movimiento artístico nacido en la segunda mitad del siglo XX, y como bien dice su nombre, es una vuelta a la <strong>pintura figurativa</strong> después de tanto <strong>expresionismo abstracto</strong> y otros tipos de <strong>abstracción.</strong><br> Eso sí, es una figuración distinta, no del todo divorciada de lo abstracto, más bien se enriquece con sus aportaciones.<br> Por supuesto no hay dos nuevos figurativos iguales, pero podemos decir que la mayoría de ellos le dan el protagonismo a la figura humana, y juegan con el <strong>expresionismo</strong> en colores, gestos, atmósferas o temas.<br> Destacamos en importancia a los artistas de la <strong>Escuela de Londres,</strong> que se dedicaron a la figura en la época culmen del arte abstracto.<br>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "El jardín del interrogador",
+            "artist": "Paula Rego",
+            "country": "Portugal",
+            "year": "2000"
+        },
+        {
+            "ruta": "02",
+            "title": "Tres estudios de figuras en la cama",
+            "artist": "Francis Bacon",
+            "country": "Irlanda",
+            "year": "1972"
+        },
+        {
+            "ruta": "03",
+            "title": "Retrato nocturno",
+            "artist": "Lucian Freud",
+            "country": "Reino Unido",
+            "year": "1986"
+        },
+        {
+            "ruta": "04",
+            "title": "Pie Fight Study 2",
+            "artist": "Adrian Ghenie",
+            "country": "Rumania",
+            "year": "2008"
+        },
+        {
+            "ruta": "05",
+            "title": "Joven con un feto",
+            "artist": "Paula Rego",
+            "country": "Portugal",
+            "year": "2005"
+        },
+        {
+            "ruta": "06",
+            "title": "Painting",
+            "artist": "Francis Bacon",
+            "country": "Irlanda",
+            "year": "1946"
+        }
+    ]
+    },
+    {
+        "id": "36",
+        "title": "Arte Cinético",
+        "years": "1954",
+        "paragraph": "<span>E</span>l término apareció por primera vez en 1920. <strong>Gabo</strong> habla en su Manifiesto Realista de <i>«el error heredado ya del arte egipcio, que veía en los ritmos estáticos el único medio de creación plástica»</i>, por lo tanto quiere hacer <i>«formas esenciales de nuestra percepción del tiempo real».</i><br> El <strong>arte cinético</strong> es pues una corriente de arte en que <strong>las obras tienen movimiento o parecen tenerlo,</strong> por lo que suelen interactuar con elementos «exteriores» como pueden ser el viento oel agua; algunos tipos de motores; e incluso la luz o el electromagnetismo.<br> Destacamos tres tipos<br> <strong>Los estables:</strong> Son obras fijas, y es el espectador quien tiene que rodearlas para percibir el movimiento.<br> <strong>Los móviles:</strong> Las obras producen un movimiento real, y por tanto van cambiando su estructura constantemente. Siendo <i>«heraclitianos»,</i> a cada instante nace una obra distinta. <strong>Los penetrables:</strong> Las obras son ensamblajes en espacios reales y el espectador debe recorrerlas, penetrar en ellas, siendo el espectador el productor de movimiento.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Rotorelieves",
+            "artist": "Marcel Duchamp",
+            "country": "Francia",
+            "year": "1935"
+        },
+        {
+            "ruta": "02",
+            "title": "Rueda de bicicleta",
+            "artist": "Marcel Duchamp",
+            "country": "Francia",
+            "year": "1913"
+        },
+        {
+            "ruta": "03",
+            "title": "El curso de las cosas",
+            "artist": "Fischli / Weiss",
+            "country": "Suiza",
+            "year": "1987"
+        },
+        {
+            "ruta": "04",
+            "title": "Marion Greenwood",
+            "artist": "Alexander Calder",
+            "country": "Estados Unidos",
+            "year": "1928"
+        }
+    ]
+
+    },
+    {
+        "id": "37",
+        "title": "Op-Art",
+        "years": "1964",
+        "paragraph": "<span>E</span>s <strong>arte óptico,</strong> es decir, un estilo exclusivamente visual que hace uso del ojo humano para engañarlo. Para conseguir ese objetivo usa a menudo ilusiones óticas o trampantojos.<br> <strong>El espectador de una obra de Op-art debe participar activamente,</strong> ya sea moviéndose o desplazándose para poder captar el efecto óptico completamente. No existe ningún aspecto emocional en las obras de <strong>Op-art.</strong> Es pura ciencia (óptica) y con ello consigue efectos estéticos utilizando desde líneas paralelas a contrastes cromáticos.<br> Es casi siempre un tipo de <strong>arte abstracto,</strong> casi siempre geométrico, y casi nunca se preocupa por comunicar un sentimiento o tocar la fibra emocional del espectador (¡a no ser que el espectador se emocione con eso, que de todo hay…!). Busca más bien una actitud activa por parte del <strong>observador,</strong> o más bien sólo de su ojo.<br> El <strong>Op-art se basaba en la percepción del espectador,</strong> que es en realidad el único y verdadero creador de la obra.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Pájaros y peces",
+            "artist": "M.C. Escher",
+            "country": "Países Bajos",
+            "year": "1938"
+        },
+        {
+            "ruta": "02",
+            "title": "Reptiles",
+            "artist": "M.C. Escher",
+            "country": "Países Bajos",
+            "year": "1943"
+        },
+        {
+            "ruta": "03",
+            "title": "Ascendiendo y descendiendo",
+            "artist": "M.C. Escher",
+            "country": "Países Bajos",
+            "year": "1960"
+        },
+        {
+            "ruta": "04",
+            "title": "Gota de rocío",
+            "artist": "M.C. Escher",
+            "country": "Países Bajos",
+            "year": "1948"
+        },
+        {
+            "ruta": "05",
+            "title": "Vega III",
+            "artist": "Victor Vasarely",
+            "country": "Hungría",
+            "year": "1959"
+        },
+        {
+            "ruta": "06",
+            "title": "Orion MCW",
+            "artist": "Victor Vasarely",
+            "country": "Hungría",
+            "year": "1969"
+        }
+    ]
+    },
+    {
+        "id": "38",
+        "title": "Pop-Art",
+        "years": "1955-1980",
+        "paragraph": "<span>A</span>unque lo pueda parecer, el <strong>Pop Art</strong> (o <strong>Arte Pop,</strong> hablemos con propiedad) no es un estúpido movimiento en el que los artistas se ponen a crear obra fáciles para un público lento. Si lo pensamos, es más bien un <strong>arte muy político,</strong> y muy consciente de la realidad de nuestra <strong>sociedad de consumo.</strong> Otra cosa es que te guste o no esa sociedad.<br> Los artistas pop, en realidad, documentan lo que ven a su alrededor, con sus luces y sus sombras. Es, ni más ni menos, la manifestación plástica de una cultura que se caracteriza por varios factores como son el consumo vertiginoso, la tecnología, el ocio, el consumo, las modas, la democracia… Todo <strong>fabricado, empaquetado y listo para venderse.</strong><br> El arte, más que nada, es otro producto, y para un mayor rendimiento <strong>se puede producir en serie.</strong><br> <strong>Nuestra cultura es superficial,</strong> es inexpresiva e impersonal. Es repetitiva y saturante. Es casi una religión con sus iconos (logotipos publicitarios), sus santos (celebridades) y sus liturgias (consumir) que nos anestesian para olvidar los problemas graves que nos acechan.<br> Llegados a este punto, <strong>el arte ya no imita la vida, sino que es la vida que imita el arte.</strong><br> Y eso, amigos, es toda una revolución artística.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Mujer y cosméticos",
+            "artist": "Wayne Thiebaud",
+            "country": "Estados Unidos",
+            "year": "1966"
+        },
+        {
+            "ruta": "02",
+            "title": "Baño de sol",
+            "artist": "David Hockney",
+            "country": "Reino Unido",
+            "year": "1966"
+        },
+        {
+            "ruta": "03",
+            "title": "Fumadora, 1 (boca, 12)",
+            "artist": "Tom Wesselmann",
+            "country": "Estados Unidos",
+            "year": "1967"
+        },
+        {
+            "ruta": "04",
+            "title": "Mercado negro",
+            "artist": "Robert Rauschenberg",
+            "country": "Estados Unidos",
+            "year": "1961"
+        },
+        {
+            "ruta": "05",
+            "title": "Rio, versión alternativa",
+            "artist": "Patrick Nagel",
+            "country": "Estados Unidos",
+            "year": "1982"
+        },
+        {
+            "ruta": "06",
+            "title": "Pala",
+            "artist": "Claes Oldenburg",
+            "country": "Estados Unidos",
+            "year": "2001"
+        }
+    ]
+    },
+    {
+        "id": "39",
+        "title": "Nouveau Réalisme",
+        "years": "1960-1970",
+        "paragraph": "<span>E</span>l <strong>Nouveau Réalisme</strong> (nuevo realismo) se fundó en octubre de 1960 con una declaración conjunta de los artistas <strong>Yves Klein, Arman, Francois Dufrêne, Raymond Hains, Pierre Restany, Daniel Spoerri, Jean Tinguely y Jacques de la Villeglé;</strong> Después se le unirían más artistas. Estos tipos declararon que se habían reunido sobre la base de una nueva conciencia de su «singularidad colectiva». ¿Qué significa esto…? Difícil saberlo. Quizás se referían a una unión, a pesar de, o quizás debido a, sus diferencias. Destaca en el grupo la enorme diversidad de su lenguaje plástico, pero sí podemos ver una base común en su trabajo: <strong>la apropiación directa de la realidad,</strong> o como dijo el nuevo realista <strong>Pierre Restany,</strong> <i>«un reciclaje poético de lo urbano, industrial y publicidad de la realidad».</i><br> ¿Seguimos sin tener muy claro de qué va este movimiento? Pues digamos para intentar definirlo que este grupo de franceses super cool <strong>pre-mayo del 68</strong> abogaron por una <strong>estética sociológica</strong> que pretende <strong>regresar al «realismo»,</strong> ese que mostraba lo cotidiano sin ningún tipo de idealización, pero ahora, después de todas las guerras mundiales y en pleno establecimiento de las sociedades de consumo y las democracias liberales, adaptado a la nueva realidad urbana, con un nuevo lenguaje descriptivo no basado en la creación de una imagen apropiada, sino que en la presentación del objeto elegido por el artista.<br> En este sentido hay <strong>paralelismos claros con el Pop-Art,</strong> con el que convivió, pero mucho más Europeo. De hecho, mucho más francés, reflejando <i>«el lado oscuro del capitalismo».</i> El Pop mostraba el lado más brillante y luminoso.<br> Los miembros del grupo veían <strong>el mundo como una imagen,</strong> de la que ellos tomarían partes y las incorporarían a su obra. Buscaban <strong>unir lo más posible la vida y el arte</strong> y a veces presentaron sus obras de arte en París de manera anónima.<br> Tenemos desde carteles cinematográficos rasgados <i>(decollages),</i> a montañas de basura y escombros amontonados, pasando por lienzos monocromos",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "IKB 79",
+            "artist": "Yves Klein",
+            "country": "Francia",
+            "year": "1959"
+        },
+        {
+            "ruta": "02",
+            "title": "Jardín del Tarot",
+            "artist": "Niki de Saint Phalle",
+            "country": "Francia",
+            "year": "1998"
+        },
+        {
+            "ruta": "03",
+            "title": "Basura de Les Halles",
+            "artist": "Arman",
+            "country": "Francia",
+            "year": "1961"
+        },
+        {
+            "ruta": "04",
+            "title": "Casablanca",
+            "artist": "Mimmo Rotella",
+            "country": "Italia",
+            "year": "2003"
+        },
+        {
+            "ruta": "05",
+            "title": "Homenaje al cubismo",
+            "artist": "Arman",
+            "country": "Francia",
+            "year": "1983"
+        },
+        {
+            "ruta": "06",
+            "title": "Antropometría",
+            "artist": "Yves Klein",
+            "country": "Francia",
+            "year": "1960"
+        }
+    ]
+    },
+    {
+        "id": "40",
+        "title": "Nuevo Realismo",
+        "years": "1929",
+        "paragraph": " <span>F</span>ue el <strong>realismo norteamericano del siglo XX,</strong> una pintura figurativa que pretende ser realista y eficaz en su mensaje social.<br> El movimiento <strong>tiene sus raíces en el realismo del siglo anterior,</strong> pero los tiempos habían cambiado. Estamos hablando del siglo XX nada menos, con sus nuevas y variadas formas de arte, nuevos inventos, nuevas ciudades, nuevos paisajes… en definitiva una nueva sociedad…<br> Estados Unidos había experimentado enormes cambios y a través de la expresión artística (no sólo la pintura, también la literatura y la música), se intentó retratar el <strong>agotamiento y la exuberancia cultural</strong> del paisaje figurativo estadounidense. Este realismo quiere ensalzar (o quizás criticar o exponer) a la <strong>sociedad americana</strong> y su progreso tecnológico e industrial, y lo hace con cierta <strong>poética.</strong><br> Podemos hablar en algunos casos de <i>«regionalismo»</i> al mostrar la <strong>América profunda,</strong> hasta ahora ignorada en la historia del arte.<br> El <strong>Nuevo Realismo Americano</strong> muestra el <strong>paisaje americano, rural o urbano,</strong> y lo hace de forma realista. Tan realista a veces, que parece surrealista, o expresionista. Y de pronto, en los Estados Unidos <strong>las obras realistas intentaron definir lo que era real.</strong>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Casa junto a la vía del tren",
+            "artist": "Edward Hopper",
+            "country": "Estados Unidos",
+            "year": "1925"
+        },
+        {
+            "ruta": "02",
+            "title": "Compartimento C, coche 293",
+            "artist": "Edward Hopper",
+            "country": "Estados Unidos",
+            "year": "1938"
+        },
+        {
+            "ruta": "03",
+            "title": "Gótico Americano",
+            "artist": "Grant Wood",
+            "country": "Estados Unidos",
+            "year": "1930"
+        },
+        {
+            "ruta": "04",
+            "title": "El mayordomo cantante",
+            "artist": "Jack Vettriano",
+            "country": "Reino Unido",
+            "year": "1992"
+        },
+        {
+            "ruta": "05",
+            "title": "Ventanas en la noche",
+            "artist": "Edward Hopper",
+            "country": "Estados Unidos",
+            "year": "1928"
+        },
+        {
+            "ruta": "06",
+            "title": "Opciones",
+            "artist": "Dean Cornwell",
+            "country": "Estados Unidos",
+            "year": "1917"
+        }
+    ]
+    },
+    {
+        "id": "41",
+        "title": "Realismo social",
+        "years": "1929-1955",
+        "paragraph": "<span>S</span>i lo pensamos bien, <strong>todo el realismo es social.</strong> El nacimiento mismo del movimiento realista francés en el siglo XIX es debido a factores más sociales que estéticos.<br> Sin embargo, <strong>el realismo social es puro siglo XX.</strong> Lo vemos mucho en literatura, como una forma de denuncia para las barbaridades de este siglo atroz. También en el cine.<br> Paralelamente, nace en los Estados Unidos un Nuevo realismo igualmente social, pero mucho más poético y evocador, menos reivindicativo en apariencia. El realismo social carga mucho más las tintas en los temas políticos y sociales, y además no tenían fronteras. Como la izquierda, es un <strong>movimiento internacional.</strong> Y por ello su arte debe ser universal. En todos los países hay problemas, y el realismo social quiso expandir la conciencia de clase y el conocimiento de los problemas sociales de la gente.<br> No se trata de mostrar la realidad. Se trata de denuciarla. Los artistas de este movimiento estaban mayoritariamente vinculados a la izquierda, sino eran directamente militantes.<br></p><h2>Realismo Socialista</h2><p>Por otro lado, tenemos el <strong>Realismo Socialista,</strong> una variante del realismo social, pero depurado de toda crítica. Aquí la denuncia no va precisamente dirigida a los gobernantes.<br> El <strong>Realismo Socialista</strong> acabó por ser un arte propagandístico, el <strong>arte oficial de la Unión Soviética</strong> y otros regímenes socialistas. Es un <strong>arte estalinista,</strong> que busca la exaltación política y por ello se convierte en un arte institucionalizado y académico.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Ciencia y caridad",
+            "artist": "Pablo Picasso",
+            "country": "España",
+            "year": "1897"
+        },
+        {
+            "ruta": "02",
+            "title": "El entrepuente",
+            "artist": "Alfred Stieglitz",
+            "country": "Estados Unidos",
+            "year": "1907"
+        },
+        {
+            "ruta": "03",
+            "title": "Mujeres muertas",
+            "artist": "Carlo Levi",
+            "country": "Italia",
+            "year": "1942"
+        },
+        {
+            "ruta": "04",
+            "title": "¡Solos!",
+            "artist": "Heliodoro Guillén Pedemonti",
+            "country": "España",
+            "year": "1890"
+        },
+        {
+            "ruta": "05",
+            "title": "Las manos del doctor Moore",
+            "artist": "Diego Rivera",
+            "country": "México",
+            "year": "1940"
+        },
+        {
+            "ruta": "06",
+            "title": "La inyección experimental",
+            "artist": "David Olére",
+            "country": "Polonia",
+            "year": "1945"
+        }
+    ]
+            
+    },
+    {
+        "id": "42",
+        "title": "Arte conceptual",
+        "years": "1960",
+        "paragraph": "<span>L</span><strong>a idea es lo importante.</strong> Esa es la base del arte conceptual.<br> Pero entonces… el arte conceptual existe desde hace siglos. Todas las obras de de arte, incluso las más decorativas, tienen tras de sí una idea. Ahí tenemos la obra de <strong>Velázquez</strong> o de <strong>Miguel Ángel.</strong><br> Pero hay que ser conscientes de que a partir del siglo XIX, corrientes como el impresionismo renunciaron a la idea y se centraron en lo expresivo o lo formal. De hecho, buena parte del arte posterior se caracterizó por ser muy formalista. Sólo hay que fijarse en el siglo XX, tan experimental en la forma.<br> La cosa llegó a un punto decadente con el expresionismo abstracto. Todo era forma y nada de contenido. Por eso los jóvenes artistas de los años 60 deciden <strong>superar esa característica fundamental del arte: ser un objeto.</strong><br> Aparecen artistas en Estados Unidos, por supuesto (en ese lugar sí que saben vender un producto), pero también en Asia y Sudamérica, y por supuesto en la vieja Europa, pues en Francia e Italia algo sabían de arte. Diferentes lugares y diferentes contextos, pero curiosamente en todos ellos va naciendo un tipo de arte que <strong>elimina toda referencia al objeto, y se centra en la idea o concepto</strong> como el aspecto más importante de la obra.<br> Nace así el Arte Conceptual como movimiento artístico, donde la ejecución es algo superficial. Lo realmente importante es la planificación y las decisiones que se toman de antemano. A veces la obra de arte conceptual es el boceto y no la obra final. Y en los años 60, eso causó una conmoción al contemplar las posibilidades de este arte para <strong>transmitir una idea política o social.</strong><br> Pero evidentemente el arte conceptual ya existía. Existía desde que <strong>Duchamp</strong> expuso su urinario y demostró que la obra artística ya no era un objeto de contemplación, sino como un objeto de pura especulación intelectual.<br> Y esa es una de la principales características del arte conceptual: No tiene que ser precisamente bonito. Tiene que transmitir su idea.<br> Para transmitir una idea los artistas se pueden valer de muchas cosas, desde las técnicas tradicionales, hasta otras como el texto, la fotografía, el video o la performance. A veces ni eso. A veces la obra es un telegrama, un manual de instrucciones, una conversación o una lata de mierda.<br> Por supuesto este arte requiere una mayor atención por parte del espectador, incluso su participación activa. Y su criterio… gracias al arte conceptual, mucha mierda se ha colado desde entonces en museos y galerías.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Antes y después, N°2",
+            "artist": "Oliver Jeffers",
+            "country": "Irlanda",
+            "year": "2013"
+        },
+        {
+            "ruta": "02",
+            "title": "Amén",
+            "artist": "Abel Azcona",
+            "country": "España",
+            "year": "2015"
+        },
+        {
+            "ruta": "03",
+            "title": "Huevos con huella: Devorar el arte",
+            "artist": "Piero Manzoni",
+            "country": "Italia",
+            "year": "1920"
+        },
+        {
+            "ruta": "04",
+            "title": "Recordando",
+            "artist": "Ai Weiwei",
+            "country": "China",
+            "year": "2009"
+        },
+        {
+            "ruta": "05",
+            "title": "Untitled (Perfect lovers)",
+            "artist": "Félix Gonzalez-Torres",
+            "country": "Cuba",
+            "year": "1991"
+        },
+        {
+            "ruta": "06",
+            "title": "¡Fuera de mi mente, fuera de esta habitación!",
+            "artist": "Bruce Nauman",
+            "country": "Estados Unidos",
+            "year": "1968"
+        }
+    ]    
+    },
+    {
+        "id": "43",
+        "title": "Minimalismo",
+        "years": "1960-1970",
+        "paragraph": "<span>F</span><strong>rías, sólidas, lacónicas, austeras…</strong> Así son las esculturas minimalistas.<br> Volúmenes creados en materiales industriales que aparecen en una exposición, insondables, dominando de forma extraña el espacio, como el monolito de <i>«2001: Una odisea en el espacio».</i><br> El término <i>«minimal»</i> fue utilizado por primera vez por <strong>Richard Wollheim</strong> en 1965 para referirse a las pinturas de <strong>Ad Reinhardt</strong> y a otros objetos de <strong>muy alto contenido intelectual pero de bajo contenido de manufactura.</strong><br> El minimalismo deja fuera toda emoción. Es pura contemplación intelectual y objetiva, algo que llama la atención teniendo en cuenta el contexto <strong>político y social de cuando nacen en los años 60.</strong><br> El minimalismo es, por así decirlo, como una <i>performance.</i> De alguna manera somo nosotros los espectadores los que hacemos la obra. Esto lo explican los propios artistas minimalistas al afirmar que estas esculturas sólo funcionan con público. Si no hay nadie, quedan desactivadas.<br> El minimalismo se basa en <strong>influír en el espacio que lo rodea</strong> y sobre todo, <strong>influír en quien está en este espacio.</strong> Esta característica es propia de la escultura, sin embargo los minimalistas utilizaron con mucho cuidado la palabra <i>«escultura».</i> No querían saber nada del ilusionismo que conlleva el concepto, pues la escultura es, ni más ni menos, transformar una materia prima para convertirla en otra cosa. <strong>El material es clave</strong> para esta gente, mostrar simple y llánamente <strong><i>«el objeto».</i></strong><br> Son obras rigurosas, muy precisas, como materiales industriales. El artista minimal no esculpe, no suda, no le salen callos en las manos de tallar material. El artista minimal presenta su <strong><i>«propuesta»</i></strong> (esta si es una palabra que les gustaba) y es otro quien hace la pieza final. Incluso eliminan todo rastro de su huella, de autoría.<br> El minimalismo es, como toda forma de arte, un intento de <strong>poner un poco de orden en un mundo caótico.</strong><br> Es <strong>el último movimiento de la modernidad.</strong> Después de ellos, llegaría la posmodernidad.<br>",
+        "representativeWorks": [
+            {
+                "ruta": "01",
+                "title": "Dibujo de pared #370",
+                "artist": "Sol LeWitt",
+                "country": "Estados Unidos",
+                "year": "1982"
+            },
+            {
+                "ruta": "02",
+                "title": "El matrimonio de la razón y la miseria, II",
+                "artist": "Frank Stella",
+                "country": "Estados Unidos",
+                "year": "1959"
+            },
+            {
+                "ruta": "03",
+                "title": "Plano magnesio cobre",
+                "artist": "Carl André",
+                "country": "Estados Unidos",
+                "year": "1969"
+            },
+            {
+                "ruta": "04",
+                "title": "Jardín de Narcisos",
+                "artist": "Yayoi Kusama",
+                "country": "Japón",
+                "year": "1966"
+            }
+        ]   
+    },
+    {
+        "id": "44",
+        "title": "Acción",
+        "years": "1960",
+        "paragraph": "<span>L</span>a <i>performance</i> es también un arte, claro. Pero es un arte imprevisible, efímero e intenso. Algo así como el siglo XX que la vio nacer.<br>Es <strong>actuar</strong> para buscar una reacción por parte del público, buscar el asombro o la provocación. La obra ya no es un objeto (algo que lo relaciona con el arte conceptual), ahora <strong>la obra es el sujeto.</strong>Actuar, por supuesto, se lleva haciendo desde hace milenios. Fueron las vanguardias del siglo XX las primeras en acercarse al arte. Los futuristas, constructivistas, dadaístas y surrealistas hicieron exhibiciones como arte o para complementar su obra o sus propuestas.<br>Pero para encontrar el origen del termino <strong>arte en acción</strong> hay que remontarse a los años 50 en el <strong>Black Mountain College</strong> de Carolina del Norte, donde el músico <strong>John Cage</strong> y el coreógrafo <strong>Merce Cunningham</strong> -entre otros- protagonizaron algunas de esas acciones que, más tarde, se llegarían a considerar como auténticos <i>happenings.</i><br>Por cierto, un <i>happening</i> se diferencia de la <i>performance</i> en que carece de comienzo, ni medio, ni fin estructurados. Es una acción abierta y fluida. Una obra de arte <strong>improvisada.</strong> Sólo se da una vez y luego desaparece para siempre, siendo la más pura expresión del <strong>arte efímero.</strong><br>Los <i>happenings</i> desencadenarían en las <i>performances,</i> que requieren la presencia tanto del artista como de espectadores para llevar a cabo sus obras (las principales corrientes: Fluxus, el Body Art, el Accionismo vienés…). Estas acciones necesitan por lo general accesorios y un guion más o menos preciso, aunque desde luego la improvisación es casi necesaria. No se deja todo al azar en una <i>performance,</i> pero el caos está ahí siempre a la vuelta de la esquina.<br>Tanto el <i>happening</i> <strong>(acontecimiento, suceso)</strong> como la <i>performance</i> necesita la participación de los <i>«espectadores»</i> (que dejan de ser sujetos pasivos). El público participa en la obra, y eso es bastante revolucionario.<br>Ahora la crítica…<br>Lo cierto es que la mayoría de acciones artísticas <strong>se disfrazan con argumentos para ocultar su vacío.</strong> Sin estos argumentos, jamás podrían ser vistas como arte. Y los argumentos débiles para cuestionamientos fáciles están a la orden del día.<br>Cada vez son obras más repetitivas, que a veces rozan el ridículo (sobre todo las más serias), investigan sobre obviedades y a menudo se llegan a conclusiones artificiales.<br>La mayoría de ellas no aportan nada, ni al arte, ni a la experiencia estética. Cada vez son más políticamente correctas, ya no provocan, que era el objetivo incial. Fue <strong>un movimiento que surgió para romper</strong> (como todos los movimientos del arte), y que no requería de comprensión, pero ha degenerado en obras que acumulan explicaciones y discursos vacíos.<br>En muchas vemos la multiplicación de propuestas en las que se evade la responsabilidad de hacer arte con oficio, sin mostrar talento o técnica.<br>Estamos, por así decirlo, ante un movimiento en decandencia. Pero el cuerpo sigue ahí. El cuerpo siempre ha sido para el arte una herramienta y objeto de estudio. Así que no perdamos la esperanza. <strong>La acción artística siempre seguirá ahí.</strong> Lo que hay que hacer es superar la mediocridad y llevarla a algo nuevo. Hacer que evolucione el arte.<br>",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Semillero",
+            "artist": "Vito Acconci",
+            "country": "Estados Unidos",
+            "year": "1972"
+        },
+        {
+            "ruta": "02",
+            "title": "Performance en la documenta 5",
+            "artist": "James Lee Byars",
+            "country": "Estados Unidos",
+            "year": "1972"
+        },
+        {
+            "ruta": "03",
+            "title": "La artista está presente",
+            "artist": "Marina Abramovic",
+            "country": "Serbia",
+            "year": "2010"
+        },
+        {
+            "ruta": "04",
+            "title": "Shoot",
+            "artist": "Chris Burden",
+            "country": "Estados Unidos",
+            "year": "1971"
+        },
+        {
+            "ruta": "05",
+            "title": "Untitled (Go-Go Dancing Platform)",
+            "artist": "Félix Gonzalez-Torres",
+            "country": "Cuba",
+            "year": "1991"
+        },
+        {
+            "ruta": "06",
+            "title": "Sin título (Señal de sangre n.°2/Huellas del cuerpo)",
+            "artist": "Ana Mendieta",
+            "country": "Estados Unidos",
+            "year": "1974"
+        }
+    ]       
+    },
+    {
+        "id": "45",
+        "title": "Hiperrealismo",
+        "years": "1965",
+        "paragraph": "<span>E</span>l <strong>hiperrealismo</strong> (llamado realismo radical por algunos), y sus variantes: fotorrealismo, realismo conceptual, posminimalismo… Un <strong>arte basado casi exclusivamente en el virtuosismo</strong> nacido a finales de los años 60.<br>Debemos suponer que un arte que <strong>quiere copiar la realidad</strong> milímetro a milímetro, átomo a átomo, es un arte que <strong>busca explícitamente la objetividad radicalizada,</strong> aunque <strong>no deja de ser también explícitamente una representación:</strong> pintura, escultura o lo que sea que «maneje» tan bien el artista de turno.<br>Porque sí, los hiperrealistas son unos tipos que pintan o esculpen muy bien. <strong>Dominan su oficio</strong> y nos lo restriegan en la cara a nosotros, pobres espectadores, que <strong>no podemos más que asombrarnos ante semejante dominio técnico.</strong><br>Pero aparte de dominio técnico, el arte necesita otra cosa. Otra cosa más importante. Quizás lo realmente importante. Porque de otra manera, podríamos decir que <strong>el hiperrealismo no dista mucho de la taxidermia.</strong><br> El arte hiperrealista busca algo imposible: <strong>la perfección,</strong> aunque lo haga sólo para <strong>mostrar perfectamente lo banal,</strong> siguiendo un poco lo que habían empezado años antes los Pop.<br> En el hiperrealismo <strong>no suele haber huellas de pinceladas,</strong> se elimina toda materia. Se elimina incluso toda emoción o sentimiento. Con ello asumimos que se quiere parecer a la quizás mucho menos realista fotografía.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Mark",
+            "artist": "Chuck Close",
+            "country": "Estados Unidos",
+            "year": "1979"
+        },
+        {
+            "ruta": "02",
+            "title": "Thunder Smash",
+            "artist": "Charles Bell",
+            "country": "Estados Unidos",
+            "year": "1977"
+        },
+        {
+            "ruta": "03",
+            "title": "Lavabo y espejo",
+            "artist": "Antonio López",
+            "country": "España",
+            "year": "1967"
+        },
+        {
+            "ruta": "04",
+            "title": "M-A/C-L",
+            "artist": "Daniel Firman",
+            "country": "Francia",
+            "year": "2005"
+        },
+        {
+            "ruta": "05",
+            "title": "Papá muerto",
+            "artist": "Ron Mueck",
+            "country": "Australia",
+            "year": "1996"
+        },
+        {
+            "ruta": "06",
+            "title": "Mujer con ramas",
+            "artist": "Ron Mueck",
+            "country": "Australia",
+            "year": "2008"
+        }
+    ]
+    },
+    {
+        "id": "46",
+        "title": "Postmodernidad",
+        "years": "1975",
+        "paragraph": "<span>O</span>tra vez <strong>los Simpsons</strong> dan en la diana y definen a la perfección otro de los aspectos de nuestra sociedad. Por cierto, <strong>los Simpsons</strong> es algo bastante <strong>postmoderno…</strong><br> Etimológicamente la <strong>postmodernidad</strong> (o postmodernismo) hace alusión al arte realizado <strong>después del modernismo,</strong> es decir, después de los años 60, contando el minimalismo como el último movimiento moderno.<br>Mientras la modernidad buscaba continuamente una forma universal de creación, <strong>los postmodernos no eran tan optimistas.</strong> Ya sabían de qué iba todo, estaban de vuelta de todo. Ya habían visto lo ocurrido con todos los movimientos anteriores, como caducaban. Ya habían visto fracasar a los grandes sistemas políticos e ideológicos. Habían visto como pasaban de moda y se marchitaban las grandes corrientes culturales.<br>El humano postmoderno se vuelve <strong>más individualista y menos idealista.</strong> Pasa de ideologías, el progreso ya no es un concepto a tener en cuenta. Sabe que al final ha triunfado el materialismo y el consumismo. Sabe que los medios mienten para que siga así. Sabe que somos una sociedad de masas formada por individuos ajenos a las preocupaciones y los problemas de la misma.<br>Es por ello que los postmodernistas no se mojan demasiado. Mientras que la modernidad tenía los límites muy precisos, <strong>la postmodernidad es difusa, borrosa.</strong> Carece de unos contornos definidos. Es ambigüa, es falsa, es viperina y venenosa. Parece trivial, tonta, pero en su conjunto no lo es…<br><strong>La postmodernidad se caracteriza por su cinismo,</strong> en el sentido de no creer demasiado en la sinceridad o bondad humana, ni en sus motivaciones ni en sus acciones, y expresa esta actitud mediante la ironía y la burla. Los postmodernos suelen presentar una astuta insolencia y una evidente distancia cínica.<br><strong>La postmodernidad se caracteriza por su relativismo.</strong> No existen las verdades absolutas. Todo es relativo, no existe una verdad universal ni objetiva. Y eso implica desde el arte y las ideas que se tenían de belleza, hasta la moral, pues ahora no hay bien o mal absolutos, sino dependientes de circunstancias concretas.<br><strong>La postmodernidad se caracteriza por ser juguetona.</strong> Son muy graciosillos los artistas postmodernos y siempre que pueden sacan a relucir su espíritu lúdico. Siempre que pueden nos enseñan su ironía mordaz. El sarcasmo es una de las principales herramientas postmodernas y lo usan para estimular la admiración o la adversión del espectador, porque da igual lo uno que lo otro. Sabían que todas las principales corrientes artísticas habían sido vapuleadas al principio.<br><strong>La postmodernidad se caracteriza por ser subversiva.</strong> Los postmodernos son tipos que se nutrieron de todo el arte anterior (o más bien de un «greatest hits» del arte anterior). Por ello su arte está repleto de <strong>referencias,</strong> no sólo al arte, sino a toda la cultura popular, que como ya demostró el Pop, era también digna de ser considerada arte. Todo lo anterior lo mastican, lo traga, lo digieren… y bueno, ya sabemos lo que pasa después… lo subvierten.<br><strong>La postmodernidad es un collage de referencias.</strong> Y por supuesto, el espectador disfruta más del arte postmoderno si conoce las referencias. La postmodernidad recompensa el conocimiento. Recompensa que el espectador sepa deconstruir los elementos utilizados, sepa identificar sus fuentes… El artista postmoderno suele dejar pistas sobre sus referencias. Miguitas de pan. Un poco de trabajo para que el espectador no se duerma entre el sopor que puede llegar a ser el arte.<br><strong>La postmodernidad implica la desaparición del objeto.</strong> Y la aparición del concepto. Esto lo emparenta directamente con el arte conceptual. Lo postmoderno suele ser un arte muy intelectual, aunque a veces nos haga reír, o produzca vergüenza ajena.<br><strong>La postmodernidad se caracteriza por su superficialidad.</strong> Como no existe una respuesta única para nada (menos aún para el arte), todo merece consideración. <strong>Ya todo vale.</strong> Desaparece toda definición, y se funden significantes y significados. La superficie se convierte en lo único importante, aunque con ello se quiera dar un mensaje falso o contradictorio.<br> Evidentemente, a veces eso es precisamente lo que critica la postmodernidad.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Dios salve a la reina",
+            "artist": "Jamie Reid",
+            "country": "Reino Unido",
+            "year": "1976"
+        },
+        {
+            "ruta": "02",
+            "title": "Ídolo con calavera",
+            "artist": "Nadin Ospina",
+            "country": "Colombia",
+            "year": "1998"
+        },
+        {
+            "ruta": "03",
+            "title": "Retratos de políticos",
+            "artist": "Mark Wagner",
+            "country": "Estados Unidos",
+            "year": "2013"
+        },
+        {
+            "ruta": "04",
+            "title": "Mi cama",
+            "artist": "Tracey Emin",
+            "country": "Reino Unido",
+            "year": "1998"
+        },
+        {
+            "ruta": "05",
+            "title": "Caterpillar with chains",
+            "artist": "Jeff Koons",
+            "country": "Estados Unidos",
+            "year": "2003"
+        },
+        {
+            "ruta": "06",
+            "title": "Comienza un nuevo día",
+            "artist": "Fischli / Weiss",
+            "country": "Suiza",
+            "year": "1986"
+        }
+    ]
+    },
+    {
+        "id": "47",
+        "title": "Street Art",
+        "years": "1975",
+        "paragraph": "<span>M</span>odalidad de pintura libre, ilegal, y generalmente urbana. Arte en la calle cuyo origen se remonta al <strong>imperio romano</strong> con inscripciones en muros anónimas de carácter satírico o crítico.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Smile",
+            "artist": "Banksy",
+            "country": "Reino Unido",
+            "year": "2013"
+        },
+        {
+            "ruta": "02",
+            "title": "¿Tienen que estar desnudas las mujeres para entrar en el Metropolitan Museum?",
+            "artist": "Guerrilla Girls",
+            "country": "Estados Unidos",
+            "year": "1989"
+        },
+        {
+            "ruta": "03",
+            "title": "Postal de Belén",
+            "artist": "Banksy",
+            "country": "Reino Unido",
+            "year": "2005"
+        },
+        {
+            "ruta": "04",
+            "title": "Mejores amigos",
+            "artist": "Keith Haring",
+            "country": "Estados Unidos",
+            "year": "1990"
+        },
+        {
+            "ruta": "05",
+            "title": "Notario",
+            "artist": "Jean-Michel Basquiat",
+            "country": "Estados Unidos",
+            "year": "1983"
+        },
+        {
+            "ruta": "06",
+            "title": "In Italian",
+            "artist": "Jean-Michel Basquiat",
+            "country": "Estados Unidos",
+            "year": "1983"
+        }
+    ]
+    },
+    {
+        "id": "48",
+        "title": "Land Art",
+        "years": "1968",
+        "paragraph": "<span>H</span>íbrido entre la escultura y la arquitectura, el Land Art surge del arte conceptual y el minimal para crear un <strong>arte de la naturaleza en la naturaleza,</strong> generado a partir de ella, con sus materiales (rocas, gravillas, tierra, ramas, arena… incluso el viento o las mareas…) y su ubicación en entornos naturales. El <strong>paisaje,</strong> por tanto, es un concepto fundamental.<br> Los artistas del Land Art coincidieron con el nacimiento de una <strong>conciencia ecologista</strong> y la desaprobación por la irresponsabilidad y los excesos del capitalismo.<br> En ese sentido la comercialización del Land Art es compleja, aunque todo se puede vender, claro.<br> Por lo general, es un arte que debe permanecer donde está, y llegado el momento, <strong>erosionarse o transformarse</strong> como todo en la naturaleza. Incluso desaparecer. Por ello, <strong>documentar el proceso</strong> fue muy importante en esta corriente. Fotos, videos, mapas o dibujos de la obra suelen ser tan importantes como la obra en sí.<br> El Land Art se basa en la <strong>alteración del paisaje</strong> y la <strong>unión de este con el ser humano.</strong> Sirve para establecer una relación y sobre todo una reflexión en lo que pintamos en este mundo y lo dañinos o beneficiosos que podemos ser para él.",
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "Flores en el cuerpo",
+            "artist": "Ana Mendieta",
+            "country": "Estados Unidos",
+            "year": "1973"
+        },
+        {
+            "ruta": "02",
+            "title": "Monte Rushmore",
+            "artist": "Gutzon Borglum",
+            "country": "Estados Unidos",
+            "year": "1927"
+        },
+        {
+            "ruta": "03",
+            "title": "El peine del viento XV",
+            "artist": "Eduardo Chillida",
+            "country": "España",
+            "year": "1977"
+        },
+        {
+            "ruta": "04",
+            "title": "Campo de relámpagos",
+            "artist": "Walter de Maria",
+            "country": "Estados Unidos",
+            "year": "1977"
+        },
+        {
+            "ruta": "05",
+            "title": "Hojas alrededor de agujero",
+            "artist": "Andy Goldsworthy",
+            "country": "Reino Unido",
+            "year": "1987"
+        }
+    ]
+    },
+    {
+        "id": "49",
+        "title": "Arte Povera",
+        "years": "1967-2020",
+        "paragraph": "<span>O</span><strong>Arte Pobre.</strong> No pobre por ser de mala calidad en sí, sino por el <strong>empleo de materiales muy básicos,</strong> incluso efímeros, como trapos, periódicos, paja, ramas o piedras.<br> Por supuesto, no fueron los primeros en usar materiales humildes, pero quizás sí los primeros en usarlos intencionadamente tras la crisis económica que sufrió Italia tras el fugaz boom que siguió a la II Guerra Mundial.<br> Eso surge como un <strong>rechazo al consumismo</strong> de la civilización moderna. Sabían que la industrialización y la mercantilización iban a joder el arte. Y no se equivocaron. Uniendo su tradición milenaria con el consumo de masas, <strong>combinaron pasado y presente</strong> y fusionaron técnicas y soportes considerando pintura, escultura, collage, instalación y performance como la misma cosa. <strong>Arte y vida se dan la mano,</strong> como en la mayoría de movimientos artísticos contemporáneos.<br> El material suele ser importante para los artistas povera, desde su fabricación y manipulación a su relación con el entorno. Es habitual que materiales industriales dialoguen con otros naturales. <strong>La jerarquía de los materiales deja de existir.</strong>", 
+        "representativeWorks": [
+        {
+            "ruta": "01",
+            "title": "12 caballos",
+            "artist": "Jannis Kounellis",
+            "country": "Grecia",
+            "year": "1969"
+        },
+        {
+            "ruta": "02",
+            "title": "Sin título o Aún no",
+            "artist": "Eva Hesse",
+            "country": "Alemania",
+            "year": "1966"
+        },
+        {
+            "ruta": "03",
+            "title": "Venus de los trapos",
+            "artist": "Michelangelo Pistoletto",
+            "country": "Italia",
+            "year": "1967"
+        },
+        {
+            "ruta": "04",
+            "title": "Contingente",
+            "artist": "Eva Hesse",
+            "country": "Alemania",
+            "year": "1969"
+        },
+        {
+            "ruta": "05",
+            "title": "Concepto espacial, espera",
+            "artist": "Lucio Fontana",
+            "country": "Italia",
+            "year": "1964"
+        }
+    ]
+    }
+]

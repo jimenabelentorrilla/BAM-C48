@@ -49,11 +49,11 @@ body {
 }
 
 .header-paragraph {
-    width:700px;
+    width: 80%;
 }
 .header-paragraph p {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 19px;
+    font-size: clamp(19px, 1vw, 35px);
     line-height: 1.6;
     font-weight: 400;
 }
@@ -102,7 +102,7 @@ body {
     height: 120px;
 }
 .card-title {
-    font-size: 22px;
+    font-size: clamp(22px, 1vw, 30px);
     font-weight: 700;
     width: 400px;
     margin: 0;
@@ -112,10 +112,6 @@ body {
     font-weight: 600;
     line-height: 1.8;
 }
-.search-mov{
-    width: 45% !important;
-}
-
 .arrow a {
   text-decoration: none;
   font-size: 1.5em;
@@ -139,12 +135,9 @@ body {
         position: unset;
         width: 100%;
     }
-    .card-title{
-        width: 300px;
-    }
-  }
+}
   
-  @media (min-width: 460px) {
+@media (min-width: 460px) {
     .cont-grid{
         grid-template-columns: 1fr;
     }
@@ -156,12 +149,9 @@ body {
         position: unset;
         width: 100%;
     }
-    .card-title{
-        width: 300px;
-    }
-  }
-  
-  @media (min-width: 768px) {
+}
+
+@media (min-width: 768px) {
     .cont-grid{
         grid-template-columns: 1fr;
     }
@@ -172,17 +162,14 @@ body {
         height: 40vh;
         position: unset;
         width: 100%;
-    }
-    .card-title{
-        width: 300px;
     }
     .back{
         width: 100%;
         justify-content: space-between;
     }
-  }
-  
-  @media (min-width: 1024px) {
+}
+
+@media (min-width: 1024px) {
     .cont-grid{
         grid-template-columns: 1fr;
     }
@@ -194,16 +181,13 @@ body {
         position: unset;
         width: 100%;
     }
-    .card-title{
-        width: 340px;
-    }
     .back{
         width: 100%;
         justify-content: space-between;
     }
-  }
-  
-  @media (min-width: 1200px) {
+}
+
+@media (min-width: 1200px) {
     .cont-grid {
         display: grid;
         grid-template-columns: 30% 70%;
@@ -222,16 +206,13 @@ body {
         top: 0;
         left: 0;
     }
-    .card-title{
-        width: 340px;
-    }
     .back{
         width: 72%;
         justify-content: center;
     }
-  }
-  
-  @media (width > 1400px) {
+}
+
+@media (width > 1400px) {
     .cont-grid {
         display: grid;
         grid-template-columns: 30% 70%;
@@ -250,11 +231,8 @@ body {
         top: 0;
         left: 0;
     }
-    .card-title{
-        width: 340px;
-    }
     .back{
         width: 72%;
         justify-content: center;
     }
-  }
+}
